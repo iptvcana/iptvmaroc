@@ -1,0 +1,1532 @@
+
+ext,AR:MR-MEDI1 HD,http://streaming.medi1tv.com/live/Medi1tvArabia.sdp/chunklist_w1604542278.m3u8?v=
+ext,AR:MR-CHADA TV,https://edge4.vedge.infomaniak.com/livecast/chadatv/chunklist_w1139108578.m3u8
+ext,AR:MR-2M-MONDE,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+ext,AR:MR-Al AOULA HD,http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+ext,AR:MR-ARRYADIA HD,http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+ext,AR:MR-ARRABIAA HD,http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+ext,AR:MR-ASSADISSA HD,http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+ext,AR:MR-TAMAZIGHT HD,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8?
+ext,AR:MR-MAB TV News,http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w605955827_b4500000_sleng.m3u8?v=
+ext,AR:MR-ARRYADIA HD-3,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+ext,AR:MR-AL MAGHRIBIA HD TNT,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+ext,AR:MR-M24,http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w185528531_b4500000_sleng.m3u8?v=
+
+group,TUNISIE HD
+avi,▁ ▂ ▄ ▅ ▆☆ TUNISIE HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:TN-SAHEL TV HD,https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1277677680.m3u8
+ext,AR:TN-Tunisia Nat1,http://51.83.67.192:25461/live/web/premium/10045.m3u8
+ext,AR:TN-Nessma,https://stream-01.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhq_trhnbXHiXI2m0fw-Lwyw)/dm/3/x7lmd4f/s/live-2.m3u8
+ext,AR:TN-Tunisna,https://swhd.herokuapp.com/https://live-ak.vimeocdn.com/exp=1573089350~acl=%2F0fdefbbd-1c14-493a-8013-49b4ac29aeb2%2F%2A~hmac=8b5660fec08d5109004bfd3b8d63867031a65da74a32477e07b253dc061fa142/0fdefbbd-1c14-493a-8013-49b4ac29aeb2/chunklist_b3256000.m3u8
+ext,AR:TN-Hannibal,http://51.83.67.192:25461/live/web/premium/10049.m3u8
+ext,AR:TN-Aljanoubia,http://92.222.93.75:1935/live/samir/chunklist_w1671379668.m3u8?v=
+ext,AR:TN-Carthage Plus,http://tv.teledunet.com:25461/live/web/premium/10056.m3u8
+
+group,CHILDREN
+avi,▁▂▃▅▆▇★☀二【«CHILDREN»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,TAHA Kids TV,http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
+ext,MICKEY TV,http://78.193.122.129:9981/play/a05a
+Baraem.net,BARAEM,http://95.170.215.120/hls/m3u8/Baraem.m3u8
+ext,Ar:SPACETOON,http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+ext,Ar:SPACETOON+,http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w693439211_b346000_slAR.m3u8
+ext,Ar:SPACETOON++,http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/chunklist_w2129290003_b346000_slAR.m3u8?sd=10&rebase=on
+ext,Ar Karameesh,http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+ext,Ar:Sat7_Kids,http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
+ext,Ar:TOYOR-BABY,http://95.170.215.109:80/hls/m3u8/TOYOR-B-Backup.m3u8
+ext,AR ajyal,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+ext,Ar:toyourjanaa,http://95.170.215.109:80/hls/m3u8/TOYOR-J-Backup.m3u8
+ext,Ar:AR-mbc3,http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest?v=
+ext,AR Majid_Kids+,http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
+ext,AR CN_Arabia,http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+ext,AR  MR BEIN,http://livecdnh3.tvanywhere.ae/hls/boomerang/02.m3u8
+ext,ARNickelodeon,http://95.170.215.118/hls/m3u8/Nickelodeon-JR.m3u8
+
+group,ALGERIEN HD
+avi,▁ ▂ ▄ ▅ ▆☆ ALGERIEN HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:DZ-EL Biled,http://linux-app.tv:6204/live/21164920/31520888/6541.m3u8
+ext,AR:DZ-Beur TV,http://41.111.166.173:8081/live/Beur_TV/chunks.m3u8?nimblesessionid=115719&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo0MDo1NiBBTSZoYXNoX3ZhbHVlPUJaQVAxNWxGZEVnSzg0QWtEU0h4dUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-Dzair TV,http://41.111.166.173:8081/live/DzairTV_abr/live/dzairtv/chunks.m3u8?nimblesessionid=115816&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo0NDozNCBBTSZoYXNoX3ZhbHVlPU9FWUhwY2pjb2tqV3FEYkUzSEZxNXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-EL Bahia,http://41.111.166.173:8081/live/BAHIA_TV/chunks.m3u8?nimblesessionid=115850&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo0NTo0NSBBTSZoYXNoX3ZhbHVlPXYvMXlpSmszaUFaT0txZmJvbjluWkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-EL Heddaf,http://tv.teledunet.com:25461/live/web/premium/10232.m3u8
+ext,AR:DZ-Samira TV,http://41.111.166.173:8081/live/SAMIRA_TV/chunks.m3u8?nimblesessionid=115908&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo0ODozMCBBTSZoYXNoX3ZhbHVlPXZHOGhoSTl0cG1sNVRFVE02VzVwMVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-EL Djazairia,http://41.111.166.173:8081/live/EL_DJAZAIRIA_TV/chunks.m3u8?nimblesessionid=116023&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo1Mjo0OCBBTSZoYXNoX3ZhbHVlPVkydVp3OGplV3dJSkRBcWI1WnJOMEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-EL nahar Alg,http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+ext,AR:DZ-Magharibia 1,https://playback2.akamaized.net/streams/7861901_6247367_lsiblga5ze8ahdq3o5j_1/exp=1573001804~acl=%2f*~data=hdntl~hmac=6319c755461e048764b9d9e9829921115af7fd6cc5cf1962eb44230964946b34/media/7861901_6247367_lsiblga5ze8ahdq3o5j_1@2320000p.m3u8?dw=14400&ts=1572912000
+ext,AR:DZ-Echorouk TV,http://41.111.166.173:8081/live/Echorouk_TV/chunks.m3u8?nimblesessionid=116198&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAxMjo1OTowOSBBTSZoYXNoX3ZhbHVlPXF2aWlGWFlaeVJYMmhGOXlmTkd3SUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-EL nahar LAKI,http://144.217.76.52:8080/ENNAHAR/tracks-v1a1/mono.m3u8
+ext,AR:DZ-NUmidia TV News,http://41.111.166.173:8081/live/NUMIDIA/chunks.m3u8?nimblesessionid=116568&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToxMTo0NCBBTSZoYXNoX3ZhbHVlPTdtbVNJN3ZIcFo5TnF1bVk5UWZMUEE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-Algerie 1 TV,http://41.111.166.173:8081/live/CanalAlgerie/chunks.m3u8?nimblesessionid=116741&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyMToxMCBBTSZoYXNoX3ZhbHVlPW9zNGtOSEVVaTdvMHdZUnpCMm5ESkE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-Algerie 3 (A3),http://41.111.166.173:8081/live/A3/chunks.m3u8?nimblesessionid=116745&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyMjoyNiBBTSZoYXNoX3ZhbHVlPTlGMHZ0ZnJXMGdNMU9UYTFZelZXSXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-Algerie 4 (Amazight),http://41.111.166.173:8081/live/TV4/chunks.m3u8?nimblesessionid=116750&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyMzowNCBBTSZoYXNoX3ZhbHVlPTFnRWtYQlRNeFpQb2ZjNFJTb0FxTHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-Algerie 5 (Coran),http://41.111.166.173:8081/live/TV5/chunks.m3u8?nimblesessionid=116755&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyNDoxMSBBTSZoYXNoX3ZhbHVlPUllbVRNQlQzSU95RzJGVWE0dzBMbnc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-ELHAYA HD,http://41.111.166.173:8081/live/EL_HAYAT_TV/chunks.m3u8?nimblesessionid=116760&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyNTowMSBBTSZoYXNoX3ZhbHVlPUhUc3NBUzAzYXIvR2NaUUEza0YwWXc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+ext,AR:DZ-alanis HD,http://alanis.live.net.sa:1935/live/alanis/chunklist_w23715747.m3u8?v=
+ext,AR:DZ-EL_HEDDAF_TV,http://41.111.166.173:8081/live/EL_HEDDAF_TV/chunks.m3u8?nimblesessionid=116782&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMDUvMjAxOSAwMToyOTo0NiBBTSZoYXNoX3ZhbHVlPXJiUzVoUGt2c3kvdEdQTnErWStYaHc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+
+group,LIBYA HD
+avi,▁ ▂ ▄ ▅ ▆☆ LIBYA HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:LIB-Libya 1,http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+ext,AR:LIB-Libya 24,https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+ext,AR:LIB-Tanasuh,http://m.live.net.sa:1935/m/ngrp:tanasuhtv_all/chunklist_w561550171_b1364000.m3u8?v=
+ext,AR:LIB-Libya TV,http://starmena.ercdn.net/libyaschannel/libyaschannel_240p.m3u8
+ext,AR:LIB-Al Nabaa,http://31.14.40.238:1935/live/Nabaa/chunklist_w1044439584.m3u8
+ext,AR:LIB-Libya 218,https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+ext,AR:LIB-Libya News,http://video-live.vzaar.com/243BFFE/live-144734/tqg0WrP7UtC4.m3u8
+ext,AR:LIB-libya Alhadath,http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8
+
+group,PALESTINE HD
+avi,▁ ▂ ▄ ▅ ▆☆ PALESTINE HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:PAL-AlQuds,rtmp://yayin10.canliyayin.org:1935/P981680400?hghpl=1558492496/kudustv
+ext,AR:PAL-Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+ext,AR:PAL-AlFajer 1,http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+ext,AR:PAL-Raya 1 TV,http://vstream3.hadara.ps:8081/RayaHD1_web/web/chunks.m3u8
+ext,AR:PAL-Raya 3 TV,http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
+ext,AR:PAL-Al Salam,http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+ext,AR:PAL-AL YAUM,http://live.paltoday.tv:1935/paltv/live/chunklist_w1169818724.m3u8
+ext,AR:PAL-Palestine,http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+ext,AR:PAL-Musawa tv,http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+ext,AR:PAL-Maan News,rtmp://vstream3.hadara.ps:1990/MaanHD_web/web
+ext,AR:PAL-Hona Alquds,http://82.212.74.99:8000/live/hls/8170.m3u8
+ext,AR:PAL-Palestine live,http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+ext,AR:PAL-Bethlehem TV,http://tv.zalhd.live:20002/viruslove_98842561/cgpUi0d7N4/523
+ext,AR:PAL-Nbc Alnajah TV,http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+ext,AR:PAL-Awdeh Palestine,http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+ext,AR:PAL-Al-FAJER TV 1 HD,http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+ext,AR:PAL-Al-FAJER TV 2 HD,http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
+group,SUDAN HD
+avi,▁ ▂ ▄ ▅ ▆☆  SUDAN  CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:SUDAN-Blue.Nile-TV,http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+ext,AR:SUDAN-Tayba,http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1324270902.m3u8
+ext,AR:Sudan-TV,http://mysisli.com/36bay2/gin/giniko_sudantv_900kb_36bay2/tracks-v1a1/mono.m3u8
+ext,AR:Sudania-24-HD,http://s24.live.net.sa:1935/live/s24/chunklist_w1728174287.m3u8
+
+group,قنوات المصرية
+avi,▁▂▃▅▆▇★☀二【« قنوات المصرية»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,Al Thanya,http://149.100.10.162:8001/play/s21
+ext,Watan TV,http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+ext,DmcDrama,http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
+ext,ajyal,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+ext,Dmc LIVE,http://livecdnh3.tvanywhere.ae/ss/dmchd.isml/Manifest?v=
+ext,nile_drama,http://livecdnh2.tvanywhere.ae/ss/nile_drama.isml/Manifest?v=
+ext,nilecinema,http://livecdnh2.tvanywhere.ae/ss/nile_cin.isml/Manifest?v=
+HayatTV.svn,hayat,http://livecdnh2.tvanywhere.ae/ss/hayat.isml/Manifest?v=
+ext,AR-الوطن,http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?
+HayatTV.svn,hayat,http://livecdnh2.tvanywhere.ae/ss/hayat.isml/Manifest?v=
+ext,hayat+,http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+ext,Almahed,http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+ext,CBC_Drama,http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+ext,nahar+,http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
+ext,nahar drama,http://livecdnh2.tvanywhere.ae/ss/nahar_sd_drama.isml/Manifest?v=
+ext,nahar drama+,http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
+ext,kahera,http://livecdnh2.tvanywhere.ae/ss/kahera_nas.isml/Manifest?v=
+ext,kahera+,http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+ext,SADA_ELBALAD,http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+ext,watantv,http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8?
+ext,elsharqtv,http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+ext,AL FATEH,https://svs.itworkscdn.net/alfatehlive/fatehtv/chunklist.m3u8
+
+group,EL KHALIJ HD
+avi,▁ ▂ ▄ ▅ ▆☆ EL KHALIDJ ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:Oman TV,http://38.96.148.35:1935/live/omantv01/playlist.m3u8
+ext,AR:Oman Mubasher,http://38.96.148.35:1935/live/omantv03/playlist.m3u8
+ext,AR:DUB-ALRAYAN,http://alrayyan2live.azureedge.net/alrayyan1/alrayyan1.smil/chunklist_b1428000.m3u8
+ext,AR:Al RAYAN 2 HD,http://alrayyan2live.azureedge.net/alrayyan2/alrayyan2.smil/chunklist_b1428000.m3u8
+ext,AR:Qatar TV HD,http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+ext,AR:Kuwait 1 TV,https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+ext,AR:Kuwait 2 TV,https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+ext,AR:Kuwait Alrai TV,https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+ext,AR:Kuwait AL Arabi TV,https://svs.itworkscdn.net/ktvarabelive/karabe.smil/chunklist_b2400000.m3u8
+ext,AR:Kuwait AL Majlis TV,https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/chunklist_b2400000.m3u8
+BahrainTV.net,AR:BAHRAIN TV,http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+ext,AR:BAHRAIN INTERNATIONAL,http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
+ext,AR:BAHRAIN SPORTS HD,http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
+ext,AR:Yemen today HD,http://78.193.122.129:9981/play/a04p
+ext,AR:YEMEN AL Masirah,https://svs.itworkscdn.net/almasiralive/almasira/chunklist.m3u8
+
+group,IRAQ HD
+avi,▁ ▂ ▄ ▅ ▆☆ IRAQ HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:IRQ-Sport,http://95.170.215.109:80/hls/m3u8/IraqiaSp-Backup.m3u8
+ext,AR:IRQ-MBC IRAQ,http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+ext,AR:IRQ-AL Ahd,http://78.193.122.129:9981/play/a04q
+ext,AR:IRQ- karbala,https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.secure.m3u8
+ext,AR:IRQ-AFAQ-TV,http://78.193.122.129:9981/play/a02h
+ext,AR:IRQ-Naba TV,http://31.14.40.238:1935/live/Nabaa/chunklist_w881472197.m3u8
+ext,AR:IRQ-AL Hadath,http://streamer12.elementssys.com:8080/demo/Hadath/index.m3u8
+ext,AR:IRQ-AL Maaref,http://78.193.122.129:9981/play/a031
+ext,AR:IRQ-Samarra tv,http://212.18.231.213:1935/samarra/ngrp:samarra_all/chunklist_w116893029_b1431072.m3u8
+ext,AR:IRQ-AL Taghier,https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.secure.m3u8
+ext,AR:IRQ-AL Rafidain,http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+ext,AR:IRQ-AL Hurra,http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+ext,AR:IRQ-AL HURRA IRAQ,http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+ext,AR:IRQ-Al Naeem TV,http://212.18.231.213:1935/alnaeemtv/alnaeemtv/chunklist_w1337870541.m3u8
+ext,AR:IRQ-AL Diyar TV,http://82.212.74.99:8000/live/hls/8166.m3u8
+ext,AR:IRQ-AL Rasheed,http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+ext,AR:IRQ-AlMasar Aloula,http://212.18.231.213:1935/almasar/almasar_360p/chunklist_w1131855208.m3u8
+ext,AR:IRQ-AL Sharqiya TV,http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+ext,AR:IRQ-Dejlah TV (Dijlah),http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+ext,AR:IRQ-NRT 2 Arabiya HD,https://5d5e28481f3ad.streamlock.net/NRT2/livestream/chunklist_w1072586656.m3u8
+ext,AR:IRQ-DUA HD,http://38.96.175.40:1935/liveTrans//channel5_190k/chunklist_w1412664744.m3u8
+ext,AR:IRQ-ALdiyar HD,http://82.212.74.99:8000/live/hls/8166.m3u8
+ext,AR:IRQ-ALSIRAT,https://svs.itworkscdn.net/assiratvlive/assirat/chunklist.m3u8
+ext,AR:IRQ-IMAM REDA TV,http://185.23.131.61/hls/rozeh_2.m3u8
+
+group,EMIRATES HD
+avi,▁ ▂ ▄ ▅ ▆☆ EMIRATES HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:DUB-DUBAI OLA HD,http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+ext,AR:DUB-DUBAI ONE HD,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+ext,AR:DUB-NOOR DUBAI HD,http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+ext,AR:DUB-SAMA DUBAI,http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+ext,AR:DUB-DUBAI.ZAMAN,http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+ext,AR:DUB-DUBAI Racing,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+AbuDhabiTV.uk,AR:Abu Dhabi TV HD,http://adtv.ercdn.net/adaloula/adaloula.m3u8
+ext,AR:Abu Dhabi Drama HD,http://adtv.ercdn.net/addrama/addrama.m3u8
+ext,AR:DUB-AL Emarat HD,http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
+ext,AR:DUB-AL Dafrah TV,http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+ext,AR:DUB-Sharjah,https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+ext,AR:DUB-ALAN,http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+
+group,قنوات المسيحية
+avi,▁▂▃▅▆▇★☀二【« قنوات المسيحية »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,Syriac,https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w363810933_b900000.m3u8
+ext,قناة ملكوت سات,http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/chunklist.
+ext,قناة الحياة,http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/chunklist_w1544621477_b1191936.m3u8
+ext,Alkarma TV قناة الكرمة,http://flash.alkarmatv.com:1935/karmatv_na/smil:karmatv_na.smil/chunklist_w1667804327_b650000_slen.m3u8
+ext,Charity Tv Lebanon تلفزيون المحبة,http://185.105.4.236:1935/live/ngrp:livestream_all/chunklist_w1852271203_b1596000.m3u8
+ext,Aghapy TV live قناة أغابي,http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
+ext,Sat7 Egypt,http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1788004706_b400000.m3u8
+ext,Koogi TV Egypt,http://66.165.251.10:1935/koogi.tv/koogi.smil/playlist.m3u8
+ext,قناة الفادى,http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
+ext,فضائية الطريق,http://videos.atvsat.com:1935/atvsatlive/smil:atvsatlive.smil/chunklist_w1375520049_b1600000_slen.m3u8
+ext,ABN Sat Arabic قناة الأرامية,http://rtmp1.abnsat.com/hls/arabic.m3u8
+
+group,KURDISH 
+avi,▁▂▃▅▆▇★☀二【« KURDISH »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,kurdshow,http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
+ext,KURDMAX,http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+ext,kurd max,http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+ext,kurd SHOW1,http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+ext,GK,http://95.170.215.106/hls/m3u8/GK-Backup.m3u8
+ext,Payam,http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8
+ext,KU-Rudaw,https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+ext,KU-Rudaw+,http://95.170.215.106/hls/m3u8/Rudaw-Backup.m3u8
+ext,KU-TRT-Kurdi,http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+ext,NRT,http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+ext,hadi,http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
+ext,Waar,http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+ext,speda,http://speda.teradek.live:1935/live/spedahd/chunklist_w1429612203.m3u8
+ext,النصيحة,http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
+ext,sterk,http://137.74.205.201/live2/sterk-3mbps.m3u8
+ext,media hader,http://137.74.205.201/live1/mh-3mbps.m3u8
+ext,Kurmanci,http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+ext,Kurmanci2,http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
+ext,K24,http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+ext,EZIDXANTV,http://217.79.179.96/EZIDXANTV/1080/HD/tracks-v1a1/mono.m3u8
+ext,kurd:NRT2,http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+ext,kurdustan IRAQ,http://84.244.187.150:1935/live/smil:myStream.smil/chunklist_w1035622801_b1296000_sleng.m3u8?v=
+ext,knn-tv,http://95.170.215.106/hls/m3u8/KNN-Backup.m3u8
+
+group,DEUTSCH
+ext,de:BR HD,https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8?
+ext,de:HR,http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+ext,de:SKY SPORT NEWS HD,https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+ext,DE-Allgau-TV+,http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w2042767982.m3u8
+ext,DE-Baden-TV+,http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+ext,Campus-TV-Magdeburg+,http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
+ext,DE-Deutsche-Welle+,http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
+ext,DE-Franken-Fernsehen+,http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w160345619.m3u8
+ext,DE-Folx-TV+,http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+ext,DE-HR-Fernsehen+,http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+ext,DE-Isar-TV+,http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+ext,DE-MagentaMusik-360+,http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+ext,DE-MDF.1+,http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+ext,DE-Munchen-TV+,http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/chunklist_w984595760.m3u8
+ext,DE-Noa-4-Norderstedt+,http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+ext,DE-Noa-4-Hamburg+,http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+ext,DE-Oberpfalz-TV+,http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w793481164.m3u8
+ext,DE-Offener-Kanal-Magdeburg+,http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
+ext,DE-RFO+,http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/chunklist_w2048560548.m3u8
+ext,DE-tagesschau24+,http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+ext,DE-Telebasel+,http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
+ext,DE-TVA-Ostbayern+,http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1009778014.m3u8
+ext,DE-TV-Oberfranken+,http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+ext,DE-TV-Touring-Schweinfurt+,http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+ext,DE-Tirol-TV+,http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
+
+group,TURKEY
+avi,▁▂▃▅▆▇★☀二【« TURKEY »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,TR: ÇOCUK,http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+ext,TR: HABER,http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+ext,TR: AVAZ,http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+ext,TR: TÜRK,http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+ext,TR: KURDI,http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+ext,TR: EL ARABIA,http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+ext,TR: WORLD,http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+ext,TURK:TRT 1,https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_650_av-p.m3u8
+ext,TR-Star Tv-,http://195.142.1.211:4002/udp/224.2.2.1:10001
+ext,TR-NTV-,http://195.142.1.211:4002/udp/224.2.2.2:10001
+DMAX.it,DMAX HD,http://195.142.1.211:4002/udp/224.2.2.3:10001
+ext,TR-TV8 HD-,http://195.142.1.211:4002/udp/224.2.2.9:10001
+ext,TR-Tv8-5 HD-,http://195.142.1.211:4002/udp/224.2.2.10:10001
+ext,TR-a HBR-,http://195.142.1.211:4002/udp/224.2.2.17:10001
+ASpor.tr,a sport,http://195.142.1.211:4002/udp/224.2.2.18:10001
+fox-hd,FOX HD,http://195.142.1.211:4002/udp/224.2.2.33:10001
+disney,Disney Channel,http://195.142.1.211:4002/udp/224.2.2.41:10001
+ext,TR-FBTV-,http://195.142.1.211:4002/udp/224.2.2.49:10001
+ext,Beyaz HD,http://195.142.1.211:4002/udp/224.2.2.57:10001
+ext,Dyanet TV HD,http://195.142.1.211:4002/udp/224.2.2.58:10001
+TGRTHaber.tr,TGRT Haber,http://195.142.1.211:4002/udp/224.2.2.73:10001
+ext,TR-,http://195.142.1.211:4002/udp/224.2.2.105:10001
+UlkeTV.tr,ULKE HD,http://195.142.1.211:4002/udp/224.2.3.2:10001
+ext,TR-Kanal 7 HD-,http://195.142.1.211:4002/udp/224.2.3.1:10001
+ATV.am,atv HD,http://195.142.1.211:4002/udp/224.2.3.9:10001
+TV2.tr,teve2 HD,http://195.142.1.211:4002/udp/224.2.3.19:10001
+cnn,CNN HD,http://195.142.1.211:4002/udp/224.2.3.18:10001
+ext,TR-Kanal D-,http://195.142.1.211:4002/udp/224.2.3.17:10001
+ext,HABER HD,http://195.142.1.211:4002/udp/224.2.3.21:10001
+ext,CANLI HD,http://195.142.1.211:4002/udp/224.2.3.22:10001
+ext,TR-SHOW TV-,http://195.142.1.211:4002/udp/224.2.3.33:10001
+ext,SHOW TURK-,http://195.142.1.211:4002/udp/224.2.3.65:10001
+ext,Radio,http://195.142.1.211:4002/udp/224.2.3.78:10001
+ext,SPORTS TV-,http://195.142.1.211:4002/udp/224.2.3.82:10001
+ext,halk,http://195.142.1.211:4002/udp/224.2.3.89:10001
+TRTCocuk.tr,TRT COCUK HD,http://195.142.1.211:4002/udp/224.2.3.105:10001
+TRT1.tu,TRT1,http://195.142.1.211:4002/udp/224.2.3.106:10001
+TRTturk.tr,TRT TURK HD,http://195.142.1.211:4002/udp/224.2.3.111:10001
+ext,EUROSTAR,http://195.142.1.211:4002/udp/224.2.3.114:10001
+FXHD.mx,FX HD,http://195.142.1.211:4002/udp/224.2.4.1:10005
+CNNTURK.tr,CNN TURK SD,https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+ext,TR: ROMAN TV,http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
+ext,TR: AILE TV,http://ms.n1.tvkur.noccdn.com:80/cdn/558d0f34918a2/playlist.m3u8
+ext,atv -2,http://85.132.81.184:8080/atv-2/index.m3u8
+ATV.am,atv,http://85.132.81.184:8080/atv/index.m3u8
+ext,atv -4,http://85.132.81.184:8080/atv-4/index.m3u8
+ext,ATV HD (AZ),http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+
+group,USA=
+avi,▁▂▃▅▆▇★☀二【« USA= »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,EN: HOLLYWOOD MOVIES 3,http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ext,EN: DW,http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+ext,EN: CBSN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+ext,EN: SKY NEWS,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+ext,EN: BLOOMBERG,http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+group,HOLLAND
+avi,▁▂▃▅▆▇★☀二【« HOLLAND»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,NL:go tv,http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+ext,NL: HK13 TV,http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+ext,NL: Norderney192,http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+ext,NL:OMAROEB ML5,http://stream.ml5.nl:8081/3ml/livetv/chunks.m3u8
+ext,NL:OMAROEB WEST,http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+ext,NL:omropfryslan,http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
+ext,NL:omropfryslan+,http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
+ext,NL:RTV Noord,https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
+ext,NL:RTV Drenthe,https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+ext,NL:RTV Oost,https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/46ce631a-6155-4fcc-ac24-2b2e252f4f94/index.m3u8
+
+group,SWEDEN»
+avi,▁▂▃▅▆▇★☀二【« SWEDEN»»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,SW:NORWAY,http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
+ext,SW:kanal10,http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+ext,SW:kkr,http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
+ext,SW: OPPNA KANALEN,http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
+ext,SW:STORTINGET,http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+
+group,FRANCE
+ext,FR:TV 5+,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+ext,tv monde,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+ext,FR: Francophonie,http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+TV5MondeEurope.fr,FR: TV5 MONDE,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+VosgesTV.fr,FR: VOSGES TV,http://vosgestv.hdr-tv.com/live/vosgestv/livestream/chunklist_w1024246816.m3u8
+ext,FR:TRACE MZIKI,http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
+ext,FR:IL TV,http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8
+France24.fr,FR:france 24,http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+ext,FR:TV5 MONDE,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+ext,FR:TVPI,http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
+ext,FR:KTO TV,http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
+ext,FR:BIP TV,http://biptv.tv/live/biptvstream_orig/index.m3u8
+ext,FR:DIEU TV,http://wzahighwinds.katapy.com/DIEUTVLIVE/smil:dieutv.smil/chunklist_w158654035_b2256000.m3u8
+ext,FR:LA CHAINE NORMANDE,http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
+ext,FR:GONG TV LOCAL,http://ec.playmedia.fr/gong-base/live/chunklist_w33486847.m3u8
+
+group,قنوات اسلامية
+avi,▁▂▃▅▆▇★☀二【« قنوات اسلامية»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,bahrain_quaran,http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?
+ext,Quraan Kareem,http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+ext,sunnah,http://livecdnh2.tvanywhere.ae/hls/sunnah/02.m3u8
+ext,Ayat,http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+ext,Al Iarth Al Nabawi,http://82.212.74.2:8000/live/7307.m3u8
+ext,makkah tv,http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+ext,Kuwait TV Ethra Islamic,https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
+ext,Nour Dubai,http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+ext,Sudan Tayba,http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+ext,islam live TV,https://59299831b66d0.streamlock.net/islam-live/islam.stream/chunklist_w1146876122.m3u8
+ext,peace TV 1,http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+ext,peace TV 2,http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+ext,peace TV 3,http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+ext,peace TV 4,http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
+ext,Abdulbasit Abdulsamad MJAWWAD Radio,http://184.173.185.71:9974/
+ext,Abdulbasit Abdulsamad WARSH Radio,http://184.173.185.71:9956/
+ext,Abdulbasit Abdulsamad Radio,http://184.173.185.71:9980
+ext,Mohammed Siddiq AlMinshawi Almusshaf Al Mojawwad Radio,http://184.173.185.71:9826/
+ext,Mohammed Siddiq AlMinshawi Radio,http://184.173.185.71:9978/
+ext,Mahmoud Ali Albanna Almusshaf Al Mojawwad Radio,http://184.173.185.71:9810/
+ext,Mahmoud Ali Albanna Radio,http://184.173.185.71:9808/
+ext,Mahmoud Khalil AlHussary Almusshaf Al Mojawwad Radio,http://184.173.185.71:9806/
+ext,Mahmoud Khalil AlHussary Rewayat Warsh An Nafi Radio,http://184.173.185.71:9804/
+ext,Mahmoud Khalil AlHussary Radio,http://184.173.185.71:9958/
+ext,Mustafa Ismail Radio,http://184.173.185.71:9800/
+ext,Mohammad AlTablaway Radio,http://184.173.185.71:9834/
+ext,Ahmad Nauina Radio,http://184.173.185.71:9904/
+ext,Ahmed Amer Radio,http://184.173.185.71:9920/
+ext,Quran Stream,http://144.76.84.153:21494/stream
+ext,Abdullah Khayyat Radio,http://184.173.185.71:9948/
+ext,Abdullah AlJohany Radio,http://184.173.185.71:9944/
+ext,Allahu Akbar Radio,http://66.45.232.130:9996/
+ext,Abdullah Basfer Radio,http://184.173.185.71:9954/
+ext,Abdullah AlMattrod Radio,http://184.173.185.71:9858/
+ext,Abdulrahman Alsudaes Radio,http://184.173.185.71:9988/
+ext,Abdullah AlKandari Radio,http://184.173.185.71:9860/
+ext,Abdulbari Mohammad Radio,http://184.173.185.71:9868/
+ext,Abdelbari AlToubayti Radio,http://184.173.185.71:9870/
+ext,Abdul Aziz AlAhmad Radio,http://184.173.185.71:9862/
+ext,Abdulmohsin AlHarthy Radio,http://184.173.185.71:9856/
+ext,Abdulmohsen AlQasim Radio,http://184.173.185.71:9852/
+ext,Abdulhadi Kanakeri Radio,http://184.173.185.71:9850/
+ext,Abdulrasheed Soufi Rewayat Assosi An Abi Amr Radio,http://184.173.185.71:9866/
+ext,Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio,http://184.173.185.71:9864/
+ext,Abdulwadood Haneef Radio,http://184.173.185.71:9848/
+ext,Abdulmohsin AlObaikan Radio,http://184.173.185.71:9854/
+ext,Abu Bakr Al Shatri Radio,http://184.173.185.71:9966/
+ext,Adel AlKhalbany Radio,http://184.173.185.71:9874/
+ext,Addokali Mohammad Alalim Radio,http://184.173.185.71:9916/
+ext,Adel Ryyan Radio,http://184.173.185.71:9872/
+ext,Ahmad Al ajmi Radio,http://184.173.185.71:8008/
+ext,Ahmad Al ajmi Radio,http://184.173.185.71:9990
+ext,Ahmad AlHawashi Radio,http://184.173.185.71:9928/
+ext,Ahmed Altrabulsi Radio,http://184.173.185.71:9926/
+ext,Ahmad Khader AlTarabulsi Rewayat Qalon An Nafi Radio,http://184.173.185.71:9924/
+ext,Ahmad Saber Radio,http://184.173.185.71:9922/
+ext,Akram Alalaqmi Radio,http://184.173.185.71:9918/
+ext,Ali Alhuthaifi Radio,http://184.173.185.71:9844/
+ext,Ali Alhuthaifi Rewayat Qalon An Nafi Radio,http://184.173.185.71:9846/
+ext,Ali Jaber Radio,http://184.173.185.71:9964/
+ext,Ali Hajjaj Alsouasi Radio,http://184.173.185.71:9842/
+ext,Aloyoon AlKoshi Rewayat Warsh An Nafi Radio,http://184.173.185.71:9912/
+ext,Alzain Mohammad Ahmad Radio,http://184.173.185.71:9914/
+ext,Al Zain Quran Reciter,http://5.39.71.159:8118/stream
+ext,Alfateh Alzubair Rewayat Aldori An Abi Amr Radio,http://184.173.185.71:9910/
+ext,Beautiful Recitations,http://184.173.185.71:8012/
+ext,Beautiful Recitations,http://184.173.185.71:9992/
+ext,China Radio,http://184.173.185.71:9942/
+ext,Default Stream,http://198.178.123.2:9142/
+ext,Eman City,http://66.45.232.130:9990/
+ext,Emad Hafez Radio,http://184.173.185.71:9840/
+ext,Fares Abbad Radio,http://184.173.185.71:9972/
+ext,FATAWA,http://184.173.185.71:8014
+ext,Hatem Fareed Alwaer Radio,http://184.173.185.71:9898/
+ext,Hani Arrifai Radio,http://184.173.185.71:9780/
+ext,Islam2Day Radio Station! [CH.2] .::|Quran Translation|::. [www.islam2day.tv],http://www.islam2day.tv:4000/
+ext,Ibrahim Aldosari Rewayat Warsh An Nafi Radio,http://184.173.185.71:9902/
+ext,Ibrahim AlAkdar Radio,http://184.173.185.71:9946/
+ext,Idrees Abkr Radio,http://184.173.185.71:9968/
+ext,Jamaan Alosaimi Radio,http://184.173.185.71:9950/
+ext,Jamal Shaker Abdullah Radio,http://184.173.185.71:9900/
+ext,Khalifa Altunaiji Radio,http://184.173.185.71:9892/
+ext,Khaled AlQahtani Radio,http://184.173.185.71:9970/
+ext,Khalid Abdulkafi Radio,http://184.173.185.71:9894/
+ext,Khalid Almohana Radio,http://184.173.185.71:9896/
+ext,Love Quran Radio,http://158.69.227.214:8191/stream
+ext,mp3quran main radio,http://184.173.185.71:8006/
+ext,Maher Al Meaqli Radio,http://184.173.185.71:8002/
+ext,Maher Al Meaqli Radio,http://184.173.185.71:9996
+ext,Maher Shakhashero Radio,http://184.173.185.71:9836/
+ext,Mahmood Al rifai Radio,http://184.173.185.71:9818/
+ext,Mahmood AlSheimy Rewayat AlDorai An AlKisaai Radio,http://184.173.185.71:9812/
+ext,Mishary Alafasi Radio,http://184.173.185.71:8010/
+ext,Mishary Alafasy Spanish Translation Radio,http://184.173.185.71:9756/
+ext,Mishary Alafasi Radio,http://184.173.185.71:9982
+ext,Mohammad Ayyub Radio,http://184.173.185.71:9960/
+ext,Mohammed AlLohaidan Radio,http://184.173.185.71:9832/
+ext,Mohammad Rashad Alshareef Radio,http://184.173.185.71:9830/
+ext,Mohammad AlAbdullah Rewayat AlDorai An AlKisaai Radio,http://184.173.185.71:9816/
+ext,Mohammad AlAbdullah Rewayat Albizi and Qunbol An Ibn Katheer Radio,http://184.173.185.71:9814/
+ext,Mousa Bilal Radio,http://184.173.185.71:9786/
+ext,Mohammad Jibrel Radio,http://184.173.185.71:9962/
+ext,Mohammad Ayyub Radio,http://184.173.185.71:9960
+ext,Mohammad Abdullkarem Radio,http://184.173.185.71:9824/
+ext,Mohammad Abdullkarem Rewayat Warsh An Nafi Men Tariq Abi Baker Alasbahani Radio,http://184.173.185.71:9822/
+ext,Mohammad Saleh Alim Shah Radio,http://184.173.185.71:9828/
+ext,Mohammed Osman Khan from India Radio,http://184.173.185.71:9820/
+ext,Moeedh Alharthi Radio,http://184.173.185.71:9802/
+ext,Mustafa raad Alazawy Radio,http://184.173.185.71:9796/
+ext,Muftah Alsaltany Rewayat AlDorai An AlKisaai Radio,http://184.173.185.71:9788/
+ext,Muftah Alsaltany Rewayat Aldori An Abi Am Radio,http://184.173.185.71:9790/
+ext,Muftah Alsaltany Ibn Thakwan An Ibn Amer Radio,http://184.173.185.71:9794/
+ext,Muftah Alsaltany Radio,http://184.173.185.71:9792/
+ext,Mustafa AlLahoni Radio,http://184.173.185.71:9798/
+ext,Muslim Vaanoli,http://s2.voscast.com:9356/
+ext,Nasser Alqatami Radio,http://184.173.185.71:9994/
+ext,Nabil Al Rifay Radio,http://184.173.185.71:9784/
+ext,Neamah AlHassan Radio,http://184.173.185.71:9782/
+ext,Omar AlQazabri Rewayat Warsh An Nafi Radio,http://184.173.185.71:9838/
+ext,Quran Coran - www.coran.tk,http://92.222.103.13:8005/
+ext,Quran Radio Tafsir,http://66.45.232.130:9992/
+ext,Quraan,http://uk5.internet-radio.com:8079/
+ext,Quran Uygur,http://184.173.185.71:9940/
+ext,Quran Radio,http://50.7.70.58:8613/
+ext,Roqiah,http://184.173.185.71:9936/
+ext,Radio Quraan,http://66.45.232.130:9994/
+ext,Radio Izlam,http://66.45.232.130:9998/
+ext,Saad AlGhamdi Radio,http://184.173.185.71:8004/
+ext,Saad AlGhamdi Radio,http://184.173.185.71:9976
+ext,Saud Alshuraim Radio,http://184.173.185.71:9986/
+ext,Slaah Bukhatir Radio,http://184.173.185.71:9878/
+ext,Sahl Yassin Radio,http://184.173.185.71:9888/
+ext,Salah Albudair Radio,http://184.173.185.71:9882/
+ext,Salah Alhashim Radio,http://184.173.185.71:9880/
+ext,Sayeed Ramadan Radio,http://184.173.185.71:9886/
+ext,Saber Abdulhakm Radio,http://184.173.185.71:9952/
+ext,Shirazad Taher Radio,http://184.173.185.71:9884/
+ext,Tawfeeq AsSayegh Radio,http://184.173.185.71:9906/
+ext,Tareq Abdulgani daawob Radio,http://184.173.185.71:9876/
+ext,Waleed Alnaehi Rewayat Qalon An Nafi Men Tariq Abi Nasheet Radio,http://184.173.185.71:9778/
+ext,Yahya Hawwa Radio,http://184.173.185.71:9772/
+ext,Yasser AlDosari Radio,http://184.173.185.71:9984/
+ext,Yasser AlMazroyee Rewayat Rowis and Rawh An Yakoob Al Hadrami Radio,http://184.173.185.71:9774/
+ext,Yasser AlQurashi Radio,http://184.173.185.71:9776/
+ext,Yassen Rewayat Warsh An Nafi Radio,http://184.173.185.71:9908/
+ext,Yousef Bin Noah Ahmad Radio,http://184.173.185.71:9768/
+ext,Yousef Alshoaey Radio,http://184.173.185.71:9770/
+ext,Zaki Daghistani Radio,http://184.173.185.71:9890/
+avi,Maher Al Meaqli-Kaf,http://server12.mp3quran.net/maher/018.mp3
+
+group,MBC 
+avi,▂ ▄ ▅ ▆☆ MBC  ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:MY-MBC 1 HD,http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+ext,AR:MY-MBC 1 sd,http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest?v=
+ext,AR:MY-MBC 2 HD,http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+ext,AR:MY-MBC2 sd,http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest?v=
+ext,AR:MY-MBC 3 HD,http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest?v=
+ext,AR:MY-MBC 4 HD,http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+ext,1 tvg-id= tvg-name=AR:MY-MBC 4 HD tvg-logo=https://i.pinimg.com/originals/64/ff/fc/64fffc6e501e4f2fbf4fce31b190c0f5.png,group-title="MBC ",AR:MY-MBC 4 sd
+ext,AR:MY-MBC IRAQ HD,http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+ext,AR:MY-MBC MAX HD,http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+ext,AR:MY-MBC MAX sd,http://livecdnh3.tvanywhere.ae/ss/mbcmax.isml/Manifest?v=
+ext,AR:MY-MBC DRAMA HD,http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+ext,AR:MY-MBC DRAMA sd,http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest?v=
+ext,AR:MY-MBC ACTION HD,http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
+ext,AR:MY-MBC VARIETY HD,http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
+ext,AR:MY-MBC DRAMA PLUS HD,http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+ext,AR:MY-MBC BOLLYWOOD HD,http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+ext,AR:MY-MBC Masr,http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+ext,AR:MY-MBC Masr2,http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+ext,AR:MY-ZEE AFLAM,http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+ext,AR:MY-ZEE ALWAN,http://95.170.215.109/hls/m3u8/ZEE-Alwan-Backup.m3u8
+ext,AR:IRQ-MBC IRAQ,http://95.170.215.109/hls/m3u8/MBC-IRAQ-Backup.m3u8
+MBC1.net,MBc sd,http://livecdnh2.tvanywhere.ae/ss/mbc_msr.isml/Manifest?v=
+ext,MBc MSR,http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+ext,MBC DRAMAsd,http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest?v=
+ext,mbc_bolly,http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+ext,wanasah,http://livecdnh2.tvanywhere.ae/hls/wanasah/03.m3u8
+
+group,spania
+ext,sp:3/24,http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+ext,sp:Murcia,http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
+ext,sp:MurciaCanal Extremadura,http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000.m3u8
+ext,sp:MurciaETB Sat,http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?sd=8&rebase=on
+ext,sp:MurciaInformacion TV,http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/chunklist_w1891320334.m3u8
+
+group,OSN
+ext,#EXTINF:0 action moveis,http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+ext,#EXTINF:0 AR:PAL-Al Salam,http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+ext,#EXTINF:0 AD_NAT_GEO_HD+,http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
+ext,#EXTINF:0 star_movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+ext,#EXTINF:0 ZeeAflam.netZEE aflam,http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+ext,#EXTINF:0 star_world,http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+ext,#EXTINF:0 music_now,http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
+ext,#EXTINF:0 SkyCinemaUno.itCINEMA 1,http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+ext,#EXTINF:0 jyal,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+ext,#EXTINF:0 StarMovies.inStar Movies,http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
+ext,#EXTINF:0 StarWorld.inStar World,http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
+ext,#EXTINF:0 cin1,http://livecdnh1.tvanywhere.ae:80/hls/cin1/index.m3u8
+ext,#EXTINF:0 Music Now,http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8
+ext,#EXTINF:0 zoomzoom,http://livecdnh1.tvanywhere.ae:80/hls/zoom/index.m3u8
+ext,#EXTINF:0 Alfajertv 1,http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+ext,#EXTINF:0 Alfajertv 2,http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+ext,#EXTINF:0 b4uaflam,http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8
+ext,#EXTINF:0  HOLLYWOOD MOVIES 3,http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ext,#EXTINF:0 OSN cinema 1,http://livecdnh1.tvanywhere.ae/hls/cin1/02.m3u8
+ext,#EXTINF:0 StarWorld.inOsn star world,http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8
+ext,#EXTINF:0 StarMovies.inOsn star movies,http://livecdnh1.tvanywhere.ae/hls/star_movies/02.m3u8
+ext,#EXTINF:0 BOX MOVIES 3,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6528
+ext,#EXTINF:0 BOX MOVIES 2,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6529
+ext,#EXTINF:0 ART MOVIES 1,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6533
+ext,#EXTINF:0 ART COMEDYA,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6537
+ext,#EXTINF:0 ART MOVIES 2,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6539
+ext,#EXTINF:0 YAHALA CENIMA,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6540
+ext,#EXTINF:0 SERIES FIRST,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/8896
+ext,#EXTINF:0 FAMELY,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9690
+ext,#EXTINF:0 Kids.brKIDS,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9691
+ext,#EXTINF:0 MOVIES FIRST 2,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9692
+ext,#EXTINF:0 BEIN MOVEIS 4,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9700
+ext,#EXTINF:0 BEIN MOVEIS 1,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/9701
+ext,#EXTINF:0 ART 2,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6522
+ext,#EXTINF:0 #EXTINF:0 ART 1,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6523
+ext,#EXTINF:0 musicAL.alMUSIC,http://213.202.241.218:1557/live:ajf2k_1/7mY0hxn2Zg/6524
+ext,#EXTINF:0 fox-crimeFox-HD,http://95.170.215.120/hls/m3u8/Fox-HD.m3u8
+ext,#EXTINF:0 FOX-ACTION,http://95.170.215.118/hls/m3u8/FOX-ACTION-PP-SS-A.m3u8
+ext,#EXTINF:0 FOX-FAMILY,http://95.170.215.118/hls/m3u8/FOX-FAMILY-AA-SSS-Q-RR.m3u8
+
+group,ROTANA HD
+avi,▁ ▂ ▄ ▅ ▆☆ ROTANA HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:Rotana DRAMA HD,http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+ext,AR:Rotana Cinema HD,http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+ext,AR:Rotana Music HD,http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+ext,AR:Rotana Classic HD,http://livecdnh3.tvanywhere.ae/hls/rotclassic/04.m3u8
+ext,AR:Rotana Khalijia HD,http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+ext,AR:Rotana Aflam HD,http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+ext,AR:Rotana HD,http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+ext,AR:ROTANA TARAB HD,https://player-api.new.livestream.com/accounts/3320102/events/7043072/live.secure.m3u8
+
+group,SPORT
+beINSPORTSenespanol.us,bein sport,http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
+bein1hd.jsc,bein sport 1,http://xxx12.trainer.pw/mubasher1/trainer.m3u8
+beINSport2.fr,bein sport2,http://xxx12.trainer.pw/mubasher2/trainer.m3u8
+bein3hd.jsc,bein sport 3,http://xxx12.trainer.pw/mubasher3/trainer.m3u8
+bein4hd.jsc,bein sport 4,http://xxx12.trainer.pw/mubasher4/trainer.m3u8
+bein6hd.jsc,bein sport 6,http://xxx12.trainer.pw/mubasher6/trainer.m3u8
+bein8hd.jsc,bein sport 8,http://xxx12.trainer.pw/mubasher8/trainer.m3u8
+bein9hd.jsc,bein sport 9,http://xxx12.trainer.pw/mubasher9/trainer.m3u8
+bein1hd.jsc,bein sport 1,http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+beINSPORTSenespanol.us,bein sport,http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
+beINSPORTSenespanol.us,bein sport,http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8
+beINSPORTSenespanol.us,bein sport,http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+beINSPORTSenespanol.us,bein sport,http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+ext,AR beIN Sports salamtv4,http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
+ext,alkassone 1,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+ext,alkassone 2,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+ext,alkassone 3,http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+ext,الشارقة سبورت,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+ext,Sport iraq-HD,http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05.m3u8?v=
+sport2_rus,Sport,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+ext,Bayern,http://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist_w146192926.m3u8
+ext,Almahed BEIN SPORT مباريات هامة 4,http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
+RealMadridTV.es,REAL MADRID,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
+RealMadridTV.es,Real Madrid Tv,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ext,KTV Sport,http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+ext,Abu Dhabi Sports1,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+ADSports2.net,Abu Dhabi Sports 2,http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+ADSports3.net,Abu Dhabi Sports 3,https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
+ADSports4.net,Abu Dhabi Sports 4,https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8
+ext,Sharjah Sports,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+ext,Levante Tv,http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+ext,الرياضية 1السعودية,https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
+ext,الرياضية 2السعودية,https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
+
+group,LEBANON HD
+avi,▁ ▂ ▄ ▅ ▆☆ LEBANON HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:ABN-MTV HD,http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
+ext,AR:LBN-LBC HD,http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+ext,AR:LBN-LBC UND LDC,http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+ext,AR:LBN-NBN HD,http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
+ext,AR:LBN-Future TV,http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+ext,AR:LBN-AL JADEED HD,http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+ext,AR:LBN-OTV HD,https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+ext,AR:LBN-AL MANAR HD,http://stream.fastpublish.net/ALManarLive/tracks-v1a1/mono.m3u8?v=
+ext,AR:LBN- TL HD,http://cdn.catiacast.video/tl/38ad46d994b30fa6aed632fc597ca329.sdp/tracks-v1a1/mono.m3u8
+ext,AR:LBN-AL Mayadeen,http://95.170.215.109:80/hls/m3u8/MAYADEEN-Backup.m3u8
+ext,AR:LBN-ALAAN HD,http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
+ext,AR:LBN-IFILM,https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/chunklist_w1513410362_b944100_slen.m3u8
+ext,AR:LBN-Hawacom TV,http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+
+group,SYRIE HD
+avi,▁ ▂ ▄ ▅ ▆☆ SYRIE HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:SYR-LANA +,https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+ext,AR:SYR-LANA HD,https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
+ext,AR:SYR-SAMA SYRIA,http://95.170.215.109/hls/m3u8/SAMA-TV-Backup.m3u8
+ext,AR:SYR-DRAMA TV,http://livecdnh2.tvanywhere.ae/hls/syria_drama/04.m3u8
+ext,AR:SYR-SYRIA AL AOULA,http://82.137.248.16:1935/Sat/stream13102019/chunklist.m3u8
+ext,AR:SYR-EL TARBAOUIA,http://82.137.248.16:1935/SEdu/stream13102019/chunklist.m3u8
+ext,AR:SYR-NOUR ELSHAM,http://82.137.248.16:1935/Nour/stream13102019/chunklist.m3u8?DVR
+ext,AR:SYR-ANN,http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+ext,AR:SYR-AL EKHBARIYA,http://82.137.248.16:1935/Snews/stream13102019/chunklist_w2032684003.m3u8
+ext,AR:SYR-SYRIA PLUS,https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+ext,AR:SYR-ORIENT.NEWS,https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+ext,AR:SYR-HALAB TODAY,http://wowzacontrol.com:1935/8010/8010/playlist.m3u8
+ext,AR:SYR-العربي HD,http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
+group,NEWS HD
+avi,▁ ▂ ▄ ▅ ▆☆ NEWS HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:AL Jazeera Arabic Live,http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+ext,AR:AL Jazeera Mubasher,https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8
+ext,AR:AL Arabiya HD,https://av.alarabiya.net/alarabiapublish/alarabiya_720p/chunks.m3u8
+ext,AR:AL Hadath News HD,https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+ext,AR:ALMAMLKA HD,https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+ext,AR:SKY News Arabic,https://stream.skynewsarabia.com/hls/sna_720.m3u8
+BBCArabic.net,AR:BBC Arabic,http://95.170.215.107:80/hls/BBCArabic-Backup-M.m3u8
+ext,AR:RT Arabic (Russia Today),https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+ext,AR:Alalam,https://swhd.herokuapp.com/https://live2.alalamtv.net/live/Alalam/index.m3u8
+ext,AR:Watan TV,http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+france24,AR:France24,http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+ext,AR:DW Arabic,http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+TRTAlArabiya.tr,AR:TRT Arabic,http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+ext,AR:Orient News,https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+ext,AR:Alaraby TV,http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+ext,AR:Al Mayadeen,http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=
+ext,AR:Alhiwar News,http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8?v&__mn_sid=17174366775755575437
+ext,AR:CNBC Arabiya,http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+ext,AR:Al Hurra,http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+ext,AR:Alsharq,http://149.202.79.190:8081/elsharqtv/live_1024p/chunks.m3u8
+ext,Al Manar,http://stream.fastpublish.net/ALManarLive/tracks-v1a1/mono.m3u8?v=
+ext,ANN,http://ns8.indexforce.com:1935/ann/ann/chunklist_w528909203.m3u8
+
+group,JORDAN HD
+avi,▁ ▂ ▄ ▅ ▆☆ JORDAN HD CHANNELS ☆▆ ▅ ▄ ▂ ▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR:JR-Roya TV,https://roya-live.ercdn.net/roya/roya_720p.m3u8
+ext,AR:JR-Jordan TV,http://livecdnh2.tvanywhere.ae:80/hls/jordan/04.m3u8
+ext,AR:JR-Amman TV,https://player-api.new.livestream.com/accounts/3320102/events/7612516/live.secure.m3u8
+ext,AR:JR-Jordan Sport,http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+ext,AR:JR-Zweina Baladna,http://213.162.202.13:216
+ext,AR:JR-AL Ordon alyawm,http://185.27.116.54:1935/livestream/ALordonAlyoom/chunklist_w656674637.m3u8?v=
+
+group, مسلسل قيامة عثمان  
+avi,▁▂▃▅▆▇★☀二【« مسلسل قيامة عثمان »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,تعرض يوم خميس الساعة 9 ليلا,http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8?
+avi,الحلقة 1 مسلسل قيامة عثمان,https://ia801402.us.archive.org/9/items/22928/22928.mp4
+avi,الحلقة 2 مسلسل قيامة عثمان,https://ia801509.us.archive.org/14/items/22929_201911/22929.mp4
+avi,الحلقة 3 مسلسل قيامة عثمان,https://ia601505.us.archive.org/32/items/229284/229284.mp4
+avi,الحلقة 4 مسلسل قيامة عثمان,https://ia601503.us.archive.org/35/items/5_20191213/5.mp4
+avi,الحلقة 5 مسلسل قيامة عثمان,https://ia601500.us.archive.org/8/items/6_20191223_20191223/6.mp4
+avi,الحلقة 6 مسلسل قيامة عثمان,https://ia601400.us.archive.org/17/items/62_20191226_201912/6%20%282%29.mp4
+ext,الحلقة  7 مسلسل قيامة عثمان,https://ia601508.us.archive.org/15/items/7osman/7osman.ts
+avi,▁▂▃▅▆▇★☀二【« مسلسل قيامة عثمان »】二☀★▇▆▅▃▂▁,https://ia601507.us.archive.org/5/items/whatsappvideo20190704at3.08.14pm/WhatsApp%20Video%202019-07-04%20at%203.08.14%20PM.mp4
+ext,تعرض يوم خميس الساعة 9 ليلا,http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8?
+avi,الحلقة 1 مسلسل قيامة عثمان,https://ia801402.us.archive.org/9/items/22928/22928.mp4
+avi,الحلقة  3 مسلسل قيامة عثمان,https://ia601505.us.archive.org/32/items/229284/229284.mp4
+avi,الحلقة 4 مسلسل قيامة عثمان,https://ia601503.us.archive.org/35/items/5_20191213/5.mp4
+
+group,صاحب السعادة 
+avi,▁▂▃▅▆▇★☀二【«صاحب السعادة »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,الحلقة1,https://ustream2.panet.co.il/vod/121/121130/121130.mp4/chunk.m3u8
+avi,الحلقة2,https://ustream2.panet.co.il/vod/121/121248/121248.mp4/chunk.m3u8
+avi,الحلقة3,https://ustream2.panet.co.il/vod/121/121402/121402.mp4/chunk.m3u8
+avi,الحلقة4,https://ustream2.panet.co.il/vod/121/121548/121548.mp4/chunk.m3u8
+avi,الحلقة5,https://ustream2.panet.co.il/vod/121/121691/121691.mp4/chunk.m3u8
+avi,الحلقة6,https://ustream2.panet.co.il/vod/121/121830/121830.mp4/chunk.m3u8
+avi,الحلقة7,https://ustream2.panet.co.il/vod/121/121983/121983.mp4/chunk.m3u8
+avi,الحلقة8,https://ustream2.panet.co.il/vod/122/122152/122152.mp4/chunk.m3u8
+avi,الحلقة9,https://ustream2.panet.co.il/vod/122/122551/122551.mp4/chunk.m3u8
+avi,الحلقة10,https://ustream2.panet.co.il/vod/122/122423/122423.mp4/chunk.m3u8
+avi,الحلقة11,https://ustream2.panet.co.il/vod/122/122562/122562.mp4/chunk.m3u8
+avi,الحلقة12,https://ustream2.panet.co.il/vod/122/122709/122709.mp4/chunk.m3u8
+avi,الحلقة13,https://ustream2.panet.co.il/vod/122/122862/122862.mp4/chunk.m3u8
+avi,الحلقة14,https://ustream2.panet.co.il/vod/123/123007/123007.mp4/chunk.m3u8
+avi,الحلقة15,https://ustream2.panet.co.il/vod/123/123161/123161.mp4/chunk.m3u8
+avi,الحلقة16,https://ustream2.panet.co.il/vod/123/123309/123309.mp4/chunk.m3u8
+avi,الحلقة17,https://ustream2.panet.co.il/vod/123/123432/123432.mp4/chunk.m3u8
+avi,الحلقة18,https://ustream2.panet.co.il/vod/123/123561/123561.mp4/chunk.m3u8
+avi,الحلقة19,https://ustream2.panet.co.il/vod/123/123707/123707.mp4/chunk.m3u8
+avi,الحلقة20,https://ustream2.panet.co.il/vod/123/123823/123823.mp4/chunk.m3u8
+avi,الحلقة21,https://ustream2.panet.co.il/vod/123/123963/123963.mp4/chunk.m3u8
+avi,الحلقة22,https://ustream2.panet.co.il/vod/124/124087/124087.mp4/chunk.m3u8
+avi,الحلقة23,https://ustream2.panet.co.il/vod/124/124217/124217.mp4/chunk.m3u8
+avi,الحلقة24,https://ustream2.panet.co.il/vod/124/124348/124348.mp4/chunk.m3u8
+avi,الحلقة25,https://ustream2.panet.co.il/vod/124/124508/124508.mp4/chunk.m3u8
+avi,الحلقة26,https://ustream2.panet.co.il/vod/124/124649/124649.mp4/chunk.m3u8
+avi,الحلقة27,https://ustream2.panet.co.il/vod/124/124786/124786.mp4/chunk.m3u8
+avi,الحلقة28,https://ustream2.panet.co.il/vod/124/124901/124901.mp4/chunk.m3u8
+avi,الحلقة29,https://ustream2.panet.co.il/vod/125/125056/125056.mp4/chunk.m3u8
+avi,الحلقة30,https://ustream2.panet.co.il/vod/125/125095/125095.mp4/chunk.m3u8
+avi,▁▂▃▅▆▇★☀二【«صاحب السعادة »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,الحلقة1,https://mvd8.ddns.me/viewm/78/830/78830.mp4
+avi,الحلقة2,https://mvd8.ddns.me/viewm/78/933/78933.mp4
+avi,الحلقة3,https://mvd8.ddns.me/viewm/79/055/79055.mp4
+avi,الحلقة4,https://mvd7.ddns.me/viewm/79/175/79175.mp4
+avi,الحلقة5,https://mvd8.ddns.me/viewm/79/297/79297.mp4
+avi,الحلقة6,https://mvd7.ddns.me/viewm/79/445/79445.mp4
+avi,الحلقة7,https://mvd7.ddns.me/viewm/79/604/79604.mp4
+avi,الحلقة8,https://mvd8.ddns.me/viewm/79/750/79750.mp4
+avi,الحلقة9,https://mvd8.ddns.me/viewm/79/920/79920.mp4
+avi,الحلقة10,https://mvd7.ddns.me/viewm/80/051/80051.mp4
+avi,الحلقة11,https://mvd8.ddns.me/viewm/80/181/80181.mp4
+avi,الحلقة12,https://mvd7.ddns.me/viewm/80/319/80319.mp4
+avi,الحلقة13,https://mvd7.ddns.me/viewm/80/446/80446.mp4
+avi,الحلقة14,https://mvd7.ddns.me/viewm/80/700/80700.mp4
+avi,الحلقة15,https://mvd8.ddns.me/viewm/80/694/80694.mp4
+avi,الحلقة16,https://mvd8.ddns.me/viewm/80/827/80827.mp4
+avi,الحلقة17,https://mvd7.ddns.me/viewm/80/951/80951.mp4
+avi,الحلقة18,https://mvd8.ddns.me/viewm/81/079/81079.mp4
+avi,الحلقة19,https://mvd7.ddns.me/viewm/81/200/81200.mp4
+avi,الحلقة20,https://mvd7.ddns.me/viewm/81/316/81316.mp4
+avi,الحلقة21,https://mvd7.ddns.me/viewm/81/438/81438.mp4
+avi,الحلقة22,https://mvd8.ddns.me/viewm/81/587/81587.mp4
+avi,الحلقة23,https://mvd8.ddns.me/viewm/81/687/81687.mp4
+avi,الحلقة24,https://mvd8.ddns.me/viewm/81/815/81815.mp4
+avi,الحلقة25,https://mvd7.ddns.me/viewm/81/956/81956.mp4
+avi,الحلقة26,https://mvd8.ddns.me/viewm/82/090/82090.mp4
+avi,الحلقة27,https://mvd7.ddns.me/viewm/82/213/82213.mp4
+avi,الحلقة28,https://mvd7.ddns.me/viewm/82/354/82354.mp4
+avi,الحلقة29,https://mvd7.ddns.me/viewm/82/481/82481.mp4
+avi,الحلقة30,https://mvd8.ddns.me/viewm/82/603/82603.mp4
+
+group,☆☆ مسلسلات عربية 2019 ☆☆
+avi,☆☆ مسلسلات عربية 2019 ☆☆,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,غفوة القلوب 2019 الحلقة 1,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep01.mp4
+avi,غفوة القلوب 2019 الحلقة 2,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep02.mp4
+avi,غفوة القلوب 2019 الحلقة 3,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep03.mp4
+avi,غفوة القلوب 2019 الحلقة 4,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep04.mp4
+avi,غفوة القلوب 2019 الحلقة 5,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep05.mp4
+avi,غفوة القلوب 2019 الحلقة 6,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep06.mp4
+avi,غفوة القلوب 2019 الحلقة 7,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep07.mp4
+avi,غفوة القلوب 2019 الحلقة 8,http://video.alfajertv.com:8081/vodAlfajer/series/Ghafwa_AlQoloub/Ghafwa_Ep08.mp4
+avi,غفوة القلوب 2019 الحلقة 9,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep009.mp4
+avi,غفوة القلوب 2019 الحلقة 10,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep010.mp4
+avi,غفوة القلوب 2019 الحلقة 11,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep011.mp4
+avi,غفوة القلوب 2019 الحلقة 12,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep012.mp4
+avi,غفوة القلوب 2019 الحلقة 13,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep013.mp4
+avi,غفوة القلوب 2019 الحلقة 14,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep014.mp4
+avi,غفوة القلوب 2019 الحلقة 15,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep015.mp4
+avi,غفوة القلوب 2019 الحلقة 16,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep016.mp4
+avi,غفوة القلوب 2019 الحلقة 17,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep017.mp4
+avi,غفوة القلوب 2019 الحلقة 18,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep018.mp4
+avi,غفوة القلوب 2019 الحلقة 19,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep019.mp4
+avi,غفوة القلوب 2019 الحلقة 20,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep020.mp4
+avi,غفوة القلوب 2019 الحلقة 21,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep021.mp4
+avi,غفوة القلوب 2019 الحلقة 22,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep022.mp4
+avi,غفوة القلوب 2019 الحلقة 23,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep023.mp4
+avi,غفوة القلوب 2019 الحلقة 24,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep024.mp4
+avi,غفوة القلوب 2019 الحلقة 25,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep025.mp4
+avi,غفوة القلوب 2019 الحلقة 26,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep026.mp4
+avi,غفوة القلوب 2019 الحلقة 27,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep027.mp4
+avi,غفوة القلوب 2019 الحلقة 28,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep028.mp4
+avi,غفوة القلوب 2019 الحلقة 29,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep029.mp4
+avi,غفوة القلوب 2019 الحلقة 30,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep030.mp4
+avi,غفوة القلوب 2019 الحلقة الأخيرة 31,http://video2.alfajertv.com:8081/vodAlfajer3/series/Ghafwa_AlQoloub/Ghafwa_Ep031.mp4
+avi,سماء صغيرة 2019 الحلقة 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP01.mp4
+avi,سماء صغيرة 2019 الحلقة 2,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP02.mp4
+avi,سماء صغيرة 2019 الحلقة 3,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP03.mp4
+avi,سماء صغيرة 2019 الحلقة 4,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP04.mp4
+avi,سماء صغيرة 2019 الحلقة 5,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP05.mp4
+avi,سماء صغيرة 2019 الحلقة 6,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP06.mp4
+avi,سماء صغيرة 2019 الحلقة 7,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP07.mp4
+avi,سماء صغيرة 2019 الحلقة 8,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP08.mp4
+avi,سماء صغيرة 2019 الحلقة 9,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP09.mp4
+avi,سماء صغيرة 2019 الحلقة 10,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP10.mp4
+avi,سماء صغيرة 2019 الحلقة 11,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP11.mp4
+avi,سماء صغيرة 2019 الحلقة 12,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP12.mp4
+avi,سماء صغيرة 2019 الحلقة 13,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP13.mp4
+avi,سماء صغيرة 2019 الحلقة 14,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP14.mp4
+avi,سماء صغيرة 2019 الحلقة 15,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP15.mp4
+avi,سماء صغيرة 2019 الحلقة 16,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP16.mp4
+avi,سماء صغيرة 2019 الحلقة 17,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP17.mp4
+avi,سماء صغيرة 2019 الحلقة 18,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP18.mp4
+avi,سماء صغيرة 2019 الحلقة 19,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP19.mp4
+avi,سماء صغيرة 2019 الحلقة 20,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP20.mp4
+avi,2سماء صغيرة 2019 الحلقة 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP21.mp4
+avi,سماء صغيرة 2019 الحلقة 22,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP22.mp4
+avi,سماء صغيرة 2019 الحلقة 23,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP23.mp4
+avi,سماء صغيرة 2019 الحلقة 24,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP24.mp4
+avi,سماء صغيرة 2019 الحلقة 25,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP25.mp4
+avi,سماء صغيرة 2019 الحلقة 26,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP26.mp4
+avi,سماء صغيرة 2019 الحلقة 27,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP27.mp4
+avi,سماء صغيرة 2019 الحلقة 28,http://video2.alfajertv.com:8081/vodAlfajer3/series/sama_saghereh/Sama_Saghereh_EP28.mp4
+
+group,مسلسلات عربية 2019 
+avi,AR 1صانع الاحلام الحلقة,https://mvd4.ddns.me/1vod5n/sane3-a7lam-1.mp4/chunk.m3u8
+avi,ARصانع الاحلام الحلقة2,https://mvd5a.ddns.me/1vod5n/san3-al7lam-2.mp4/chunk.m3u8
+avi,ARصانع الاحلام الحلقة3,https://mvd4a.ddns.me/1vod5n/sane3-l2a7lam-3.mp4
+avi,صانع الاحلام الحلقة4,https://mvd4.ddns.me/1vod5n/san3-al7lam-4-n.mp4
+avi,AR صانع الاحلام الحلقة5,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-5.mp4
+avi,صانع الاحلام الحلقة6,https://mvd4.ddns.me/1vod5n/sane3-l2a7lam-6.mp4
+avi,صانع الاحلام الحلقة7,https://mvd4.ddns.me/1vod5n/sane3-ela7lam-7.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة8,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-8.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة9,https://mvd5a.ddns.me/1vod5n/sane3-ala7lam-9.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة10,https://mvd4.ddns.me/1vod5n/sane3-l2a7lam-10.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة11,https://mvd5a.ddns.me/1vod5n/sane3-ala7lam-11.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة12,https://mvd5a.ddns.me/1vod5n/sane3-ala7lam-12.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة13,https://mvd4a.ddns.me/1vod5n/sane3-l2a7laam-13.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة14,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-14.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة15,hhttps://mvd4a.ddns.me/1vod5n/sane3-ala7lam-15.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة16,https://mvd4.ddns.me/1vod5n/sane3-l2a7lam-16.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة17,https://mvd5a.ddns.me/1vod5n/sane3-l2a7lam-17.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة18,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-18.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة19,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-19.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة20,https://mvd4.ddns.me/1vod5n/san3-l2a7lam-20.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة21,https://mvd4a.ddns.me/1vod5n/sane3-ala7lam-21.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة22,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-22.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة23,https://mvd5a.ddns.me/1vod5n/sane3-ala7lam-23.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة24,https://mvd4a.ddns.me/1vod5n/sane3-l2a7lam-24.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة25,https://mvd4a.ddns.me/1vod5n/sane3-ala7lam-25.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة26,https://mvd4.ddns.me/1vod5n/sane3-l2a7lam-27.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة27,https://mvd5a.ddns.me/1vod5n/sane3-ala7lam-27.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة28,https://mvd4.ddns.me/1vod5n/sane3-ala7lam-28-n.mp4/chunk.m3u8
+avi,صانع الاحلام الحلقة29,https://mvd4a.ddns.me/1vod5n/sane3-ala7lam-29-n.mp4/chunk.m3u8
+avi,صانع الاحلام حلقة 30 والاخيرة,https://mvd5a.ddns.me/1vod5n/sane3-al7lam-30.mp4/chunk.m3u8
+
+group,قصص الأنبياء
+avi,▁▂▃▅▆▇★☀二【«قصص الأنبياء»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,حبيب الله ☆ محمد ☆ الحلقة 1,https://belugacdn.shoofmax.com/habib-allah/ep1/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 2,https://belugacdn.shoofmax.com/habib-allah/ep2/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 3,https://belugacdn.shoofmax.com/habib-allah/ep3/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 4,https://belugacdn.shoofmax.com/habib-allah/ep4/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 5,https://belugacdn.shoofmax.com/habib-allah/ep5/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 6,https://belugacdn.shoofmax.com/habib-allah/ep6/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 7,https://belugacdn.shoofmax.com/habib-allah/ep7/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 8,https://belugacdn.shoofmax.com/habib-allah/ep8/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 9,https://belugacdn.shoofmax.com/habib-allah/ep9/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 10,https://belugacdn.shoofmax.com/habib-allah/ep10/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 11,https://belugacdn.shoofmax.com/habib-allah/ep11/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 12,https://belugacdn.shoofmax.com/habib-allah/ep12/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 13,https://belugacdn.shoofmax.com/habib-allah/ep13/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 14,https://belugacdn.shoofmax.com/habib-allah/ep14/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 15,https://belugacdn.shoofmax.com/habib-allah/ep15/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 16,https://belugacdn.shoofmax.com/habib-allah/ep16/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 17,https://belugacdn.shoofmax.com/habib-allah/ep17/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 18,https://belugacdn.shoofmax.com/habib-allah/ep18/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 19,https://belugacdn.shoofmax.com/habib-allah/ep19/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 20,https://belugacdn.shoofmax.com/habib-allah/ep20/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 21,https://belugacdn.shoofmax.com/habib-allah/ep21/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 22,https://belugacdn.shoofmax.com/habib-allah/ep22/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 23,https://belugacdn.shoofmax.com/habib-allah/ep23/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 24,https://belugacdn.shoofmax.com/habib-allah/ep24/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 25,https://belugacdn.shoofmax.com/habib-allah/ep25/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 26,https://belugacdn.shoofmax.com/habib-allah/ep26/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 27,https://belugacdn.shoofmax.com/habib-allah/ep27/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 28,https://belugacdn.shoofmax.com/habib-allah/ep28/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 29,https://belugacdn.shoofmax.com/habib-allah/ep29/720p/index.m3u8
+ext,حبيب الله ☆ محمد ☆ الحلقة 30 و الأخيرة,https://belugacdn.shoofmax.com/habib-allah/ep30/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 1,https://belugacdn.shoofmax.com/khalil-allah/ep1/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 2,https://belugacdn.shoofmax.com/khalil-allah/ep2/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 3,https://belugacdn.shoofmax.com/khalil-allah/ep3/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 4,https://belugacdn.shoofmax.com/khalil-allah/ep4/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 5,https://belugacdn.shoofmax.com/khalil-allah/ep5/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 6,https://belugacdn.shoofmax.com/khalil-allah/ep6/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 7,https://belugacdn.shoofmax.com/khalil-allah/ep7/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 8,https://belugacdn.shoofmax.com/khalil-allah/ep8/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 9,https://belugacdn.shoofmax.com/khalil-allah/ep9/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 10,https://belugacdn.shoofmax.com/khalil-allah/ep10/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 11,https://belugacdn.shoofmax.com/khalil-allah/ep11/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 12,https://belugacdn.shoofmax.com/khalil-allah/ep12/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 13,https://belugacdn.shoofmax.com/khalil-allah/ep13/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 14,https://belugacdn.shoofmax.com/khalil-allah/ep14/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 15,https://belugacdn.shoofmax.com/khalil-allah/ep15/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 16,https://belugacdn.shoofmax.com/khalil-allah/ep16/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 17,https://belugacdn.shoofmax.com/khalil-allah/ep17/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 18,https://belugacdn.shoofmax.com/khalil-allah/ep18/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 19,https://belugacdn.shoofmax.com/khalil-allah/ep19/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 20,https://belugacdn.shoofmax.com/khalil-allah/ep20/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 21,https://belugacdn.shoofmax.com/khalil-allah/ep21/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 22,https://belugacdn.shoofmax.com/khalil-allah/ep22/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 23,https://belugacdn.shoofmax.com/khalil-allah/ep23/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 24,https://belugacdn.shoofmax.com/khalil-allah/ep24/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 25,https://belugacdn.shoofmax.com/khalil-allah/ep25/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 26,https://belugacdn.shoofmax.com/khalil-allah/ep26/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 27,https://belugacdn.shoofmax.com/khalil-allah/ep27/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 28,https://belugacdn.shoofmax.com/khalil-allah/ep28/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 29,https://belugacdn.shoofmax.com/khalil-allah/ep29/720p/index.m3u8
+ext,خليل الله  ( ابراهيم عليه السلام ) الحلقة 30 و الأخيرة,https://belugacdn.shoofmax.com/khalil-allah/ep30/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 1,https://belugacdn.shoofmax.com/kalim-allah/ep1/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 2,https://belugacdn.shoofmax.com/kalim-allah/ep2/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 2,https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 3,https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 4,https://belugacdn.shoofmax.com/kalim-allah/ep4/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 5,https://belugacdn.shoofmax.com/kalim-allah/ep5/480p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 6,https://belugacdn.shoofmax.com/kalim-allah/ep6/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 7,https://belugacdn.shoofmax.com/kalim-allah/ep7/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 8,https://belugacdn.shoofmax.com/kalim-allah/ep8/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 9,https://belugacdn.shoofmax.com/kalim-allah/ep9/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 10,https://belugacdn.shoofmax.com/kalim-allah/ep10/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 11,https://belugacdn.shoofmax.com/kalim-allah/ep11/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 12,https://belugacdn.shoofmax.com/kalim-allah/ep12/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 13,https://belugacdn.shoofmax.com/kalim-allah/ep13/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 14,https://belugacdn.shoofmax.com/kalim-allah/ep14/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 15,https://belugacdn.shoofmax.com/kalim-allah/ep15/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 16,https://belugacdn.shoofmax.com/kalim-allah/ep16/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 17,https://belugacdn.shoofmax.com/kalim-allah/ep17/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 18,https://belugacdn.shoofmax.com/kalim-allah/ep18/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 19,https://belugacdn.shoofmax.com/kalim-allah/ep19/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 20,https://belugacdn.shoofmax.com/kalim-allah/ep20/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 21,https://belugacdn.shoofmax.com/kalim-allah/ep21/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 22,https://belugacdn.shoofmax.com/kalim-allah/ep22/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 23,https://belugacdn.shoofmax.com/kalim-allah/ep23/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 24,https://belugacdn.shoofmax.com/kalim-allah/ep24/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 25,https://belugacdn.shoofmax.com/kalim-allah/ep25/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 26,https://belugacdn.shoofmax.com/kalim-allah/ep26/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 27,https://belugacdn.shoofmax.com/kalim-allah/ep27/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 28,https://belugacdn.shoofmax.com/kalim-allah/ep28/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 29,https://belugacdn.shoofmax.com/kalim-allah/ep29/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 30,https://belugacdn.shoofmax.com/kalim-allah/ep30/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 31,https://belugacdn.shoofmax.com/kalim-allah/ep31/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 32,https://belugacdn.shoofmax.com/kalim-allah/ep32/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 33,https://belugacdn.shoofmax.com/kalim-allah/ep33/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 34,https://belugacdn.shoofmax.com/kalim-allah/ep34/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 35,https://belugacdn.shoofmax.com/kalim-allah/ep35/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 36,https://belugacdn.shoofmax.com/kalim-allah/ep36/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 37,https://belugacdn.shoofmax.com/kalim-allah/ep37/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 38,https://belugacdn.shoofmax.com/kalim-allah/ep38/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 39,https://belugacdn.shoofmax.com/kalim-allah/ep39/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 40,https://belugacdn.shoofmax.com/kalim-allah/ep40/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 41,https://belugacdn.shoofmax.com/kalim-allah/ep41/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 42,https://belugacdn.shoofmax.com/kalim-allah/ep42/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 43,https://belugacdn.shoofmax.com/kalim-allah/ep43/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 44,https://belugacdn.shoofmax.com/kalim-allah/ep44/480p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 45,https://belugacdn.shoofmax.com/kalim-allah/ep45/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 46,https://belugacdn.shoofmax.com/kalim-allah/ep46/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 47,https://belugacdn.shoofmax.com/kalim-allah/ep47/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 48,https://belugacdn.shoofmax.com/kalim-allah/ep48/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 49,https://belugacdn.shoofmax.com/kalim-allah/ep49/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 50,https://belugacdn.shoofmax.com/kalim-allah/ep50/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 51,https://belugacdn.shoofmax.com/kalim-allah/ep51/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 52,https://belugacdn.shoofmax.com/kalim-allah/ep52/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 53,https://belugacdn.shoofmax.com/kalim-allah/ep53/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 54,https://belugacdn.shoofmax.com/kalim-allah/ep54/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 55,https://belugacdn.shoofmax.com/kalim-allah/ep55/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 56,https://belugacdn.shoofmax.com/kalim-allah/ep56/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 57,https://belugacdn.shoofmax.com/kalim-allah/ep57/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 58,https://belugacdn.shoofmax.com/kalim-allah/ep58/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة 59,https://belugacdn.shoofmax.com/kalim-allah/ep59/720p/index.m3u8
+ext,كليم الله  ( موسى عليه السلام ) الحلقة الأخيرة 60,https://belugacdn.shoofmax.com/kalim-allah/ep60/720p/index.m3u8
+
+group,HD Radio  Music
+avi,▁▂▃▅▆▇★☀二【«HD Radio  Music »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,ام كلثوم,http://173.249.31.198:8012/;
+ext,Arabesque,http://185.4.87.79:8765/stream
+ext,Fann FM Syria,http://ice7.securenetsystems.net/CINA-FM?playSessionID=FECEF0EC-0EFC-10AA-E80480214456A151
+avi,Fuse Fm,http://192.99.17.12:4986/;stream.mp3
+avi,Watan FM Syria,http://192.99.170.8:5470/;/;stream.mp3
+avi,Almadina FM Syria راديو المدينة سوريا,http://192.99.17.12:4978/;stream.mp3
+ext,راديو صوت الشباب,http://82.137.248.16:1935/RShabab/RShababLive/chunklist_w513391463.m3u8
+ext,اذاعة الكرمة lkarma FM,http://82.137.248.16:1935/RKarma/RKarmaLive/chunklist_w1153775818.m3u8
+
+group,مسلسل نزار قباني
+avi,▁▂▃▅▆▇★☀二【«مسلسل نزار قباني »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR: مسلسل نزار قباني 1,https://belugacdn.shoofmax.com/nizar-qabani/ep1/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 2,https://belugacdn.shoofmax.com/nizar-qabani/ep2/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 3,https://belugacdn.shoofmax.com/nizar-qabani/ep3/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 4,https://belugacdn.shoofmax.com/nizar-qabani/ep4/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 5,https://belugacdn.shoofmax.com/nizar-qabani/ep5/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 6,https://belugacdn.shoofmax.com/nizar-qabani/ep6/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 7,https://belugacdn.shoofmax.com/nizar-qabani/ep7/720p/index.m3u8
+ext,AR:مسلسل نزار قباني 8,https://belugacdn.shoofmax.com/nizar-qabani/ep8/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 9,https://belugacdn.shoofmax.com/nizar-qabani/ep9/720p/index.m3u8
+ext,AR:مسلسل نزار قباني 10,https://belugacdn.shoofmax.com/nizar-qabani/ep10/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 11,https://belugacdn.shoofmax.com/nizar-qabani/ep11/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 12,https://belugacdn.shoofmax.com/nizar-qabani/ep12/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 13,https://belugacdn.shoofmax.com/nizar-qabani/ep13/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 14,https://belugacdn.shoofmax.com/nizar-qabani/ep14/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 15,https://belugacdn.shoofmax.com/nizar-qabani/ep15/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 16,https://belugacdn.shoofmax.com/nizar-qabani/ep16/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 17,https://belugacdn.shoofmax.com/nizar-qabani/ep17/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 18,https://belugacdn.shoofmax.com/nizar-qabani/ep18/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 19,https://belugacdn.shoofmax.com/nizar-qabani/ep19/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 20,https://belugacdn.shoofmax.com/nizar-qabani/ep20/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 20,https://belugacdn.shoofmax.com/nizar-qabani/ep21/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 21,https://belugacdn.shoofmax.com/nizar-qabani/ep22/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 22,https://belugacdn.shoofmax.com/nizar-qabani/ep23/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 23,https://belugacdn.shoofmax.com/nizar-qabani/ep23/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 24,https://belugacdn.shoofmax.com/nizar-qabani/ep24/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 25,https://belugacdn.shoofmax.com/nizar-qabani/ep25/720p/index.m3u8
+ext,AR:مسلسل نزار قباني 26,https://belugacdn.shoofmax.com/nizar-qabani/ep26/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 27,https://belugacdn.shoofmax.com/nizar-qabani/ep27/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 28,https://belugacdn.shoofmax.com/nizar-qabani/ep28/720p/index.m3u8
+ext,AR:مسلسل نزار قباني 29,https://belugacdn.shoofmax.com/nizar-qabani/ep29/720p/index.m3u8
+ext,AR: مسلسل نزار قباني 30,https://belugacdn.shoofmax.com/nizar-qabani/ep30/720p/index.m3u8
+
+group,مرايا ياسر الغظمة
+avi,▁▂▃▅▆▇★☀二【«مرايا ياسر الغظمة»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR مرايا ياسر العظمة1,https://belugacdn.shoofmax.com/maraya-2000/ep1/720p/index.m3u8
+ext,AR مرايا ياسر العظمة2,https://belugacdn.shoofmax.com/maraya-2000/ep2/720p/index.m3u8
+ext,AR مرايا ياسر العظمة3,https://belugacdn.shoofmax.com/maraya-2000/ep3/720p/index.m3u8
+ext,AR مرايا ياسر العظمة4,https://belugacdn.shoofmax.com/maraya-2000/ep4/720p/index.m3u8
+ext,AR مرايا ياسر العظمة5,https://belugacdn.shoofmax.com/maraya-2000/ep5/720p/index.m3u8
+ext,AR مرايا ياسر العظمة6,https://belugacdn.shoofmax.com/maraya-2000/ep6/720p/index.m3u8
+ext,AR مرايا ياسر العظمة7,https://belugacdn.shoofmax.com/maraya-2000/ep7/720p/index.m3u8
+ext,AR مرايا ياسر العظمة8,https://belugacdn.shoofmax.com/maraya-2000/ep8/720p/index.m3u8
+ext,AR مرايا ياسر العظمة9,https://belugacdn.shoofmax.com/maraya-2000/ep9/720p/index.m3u8
+ext,AR مرايا ياسر العظمة10,https://belugacdn.shoofmax.com/maraya-2000/ep10/720p/index.m3u8
+ext,AR مرايا ياسر العظمة11,https://belugacdn.shoofmax.com/maraya-2000/ep11/720p/index.m3u8
+ext,AR مرايا ياسر العظمة12,https://belugacdn.shoofmax.com/maraya-2000/ep12/720p/index.m3u8
+ext,AR مرايا ياسر العظمة13,https://belugacdn.shoofmax.com/maraya-2000/ep13/720p/index.m3u8
+ext,AR مرايا ياسر العظمة14,https://belugacdn.shoofmax.com/maraya-2000/ep14/240p/index.m3u8
+ext,AR مرايا ياسر العظمة15,https://belugacdn.shoofmax.com/maraya-2000/ep15/720p/index.m3u8
+ext,AR مرايا ياسر العظمة16,https://belugacdn.shoofmax.com/maraya-2000/ep16/720p/index.m3u8
+ext,AR مرايا ياسر العظمة17,https://belugacdn.shoofmax.com/maraya-2000/ep17/720p/index.m3u8
+ext,AR مرايا ياسر العظمة18,https://belugacdn.shoofmax.com/maraya-2000/ep18/720p/index.m3u8
+ext,AR مرايا ياسر العظمة19,https://belugacdn.shoofmax.com/maraya-2000/ep19/720p/index.m3u8
+ext,AR مرايا ياسر العظمة20,https://belugacdn.shoofmax.com/maraya-2000/ep20/720p/index.m3u8
+ext,AR مرايا ياسر العظمة21,https://belugacdn.shoofmax.com/maraya-2000/ep21/720p/index.m3u8
+ext,AR مرايا ياسر العظمة22,https://belugacdn.shoofmax.com/maraya-2000/ep22/720p/index.m3u8
+ext,AR مرايا ياسر العظمة23,https://belugacdn.shoofmax.com/maraya-2000/ep23/720p/index.m3u8
+ext,AR مرايا ياسر العظمة24,https://belugacdn.shoofmax.com/maraya-2000/ep24/720p/index.m3u8
+ext,AR مرايا ياسر العظمة25,https://belugacdn.shoofmax.com/maraya-2000/ep25/720p/index.m3u8
+ext,AR مرايا ياسر العظمة26,https://belugacdn.shoofmax.com/maraya-2000/ep26/720p/index4.ts
+ext,AR مرايا ياسر العظمة27,https://belugacdn.shoofmax.com/maraya-2000/ep27/720p/index.m3u8
+ext,AR مرايا ياسر العظمة28,https://belugacdn.shoofmax.com/maraya-2000/ep28/720p/index.m3u8
+ext,AR مرايا ياسر العظمة29,https://belugacdn.shoofmax.com/maraya-2000/ep29/720p/index.m3u8
+ext,AR مرايا ياسر العظمة30,https://belugacdn.shoofmax.com/maraya-2000/ep30/720p/index.m3u8
+ext,AR مرايا ياسر العظمة31,https://belugacdn.shoofmax.com/maraya-2000/ep31/720p/index.m3u8
+ext,AR مرايا ياسر العظمة32,https://belugacdn.shoofmax.com/maraya-2000/ep32/720p/index.m3u8
+
+group,يوميات مدير عام
+avi,▁▂▃▅▆▇★☀二【«يوميات مدير عام»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,AR يوميات مدير عام 1,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep1/720p/index.m3u8
+ext,AR يوميات مدير عام2,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep2/720p/index.m3u8
+ext,AR يوميات مدير عام3,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep3/720p/index.m3u8
+ext,AR يوميات مدير عام4,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep4/720p/index.m3u8
+ext,AR يوميات مدير عام5,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep5/720p/index.m3u8
+ext,AR يوميات مدير عام6,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep6/720p/index.m3u8
+ext,AR يوميات مدير عام7,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep7/720p/index.m3u8
+ext,AR يوميات مدير عام8,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep8/720p/index.m3u8
+ext,AR يوميات مدير عام9,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep9/720p/index.m3u8
+ext,AR يوميات مدير عام10,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep10/720p/index.m3u8
+ext,AR يوميات مدير عام11,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep11/720p/index.m3u8
+ext,AR يوميات مدير عام12,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep12/720p/index.m3u8
+ext,AR يوميات مدير عام13,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep13/720p/index.m3u8
+ext,AR يوميات مدير عام14,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep14/720p/index.m3u8
+ext,AR يوميات مدير عام15,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep15/720p/index.m3u8
+ext,AR يوميات مدير عام16,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep16/720p/index.m3u8
+ext,AR يوميات مدير عام17,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep17/720p/index.m3u8
+ext,AR يوميات مدير عام18,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep18/720p/index.m3u8
+ext,AR يوميات مدير عام19,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep19/720p/index.m3u8
+ext,AR يوميات مدير عام20,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep20/720p/index.m3u8
+ext,AR يوميات مدير عام21,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep21/720p/index.m3u8
+ext,AR يوميات مدير عام22,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep22/720p/index.m3u8
+ext,AR يوميات مدير عام23,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep23/720p/index.m3u8
+ext,AR يوميات مدير عام24,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep24/720p/index.m3u8
+ext,AR يوميات مدير عام25,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep25/720p/index.m3u8
+ext,AR يوميات مدير عام26,https://belugacdn.shoofmax.com/yawmiyyat-modeer-aam-1/ep26/720p/index.m3u8
+
+group,نسر الصعيد
+avi,▁▂▃▅▆▇★☀二【«نسر الصعيد»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,نسر الصعيد الحلقة1,https://shoofmax.b-cdn.net/nisr-elsaeed/ep1/variant.m3u8
+ext,نسر الصعيد الحلقة2,https://shoofmax.b-cdn.net/nisr-elsaeed/ep2/variant.m3u8
+ext,نسر الصعيد الحلقة3,https://shoofmax.b-cdn.net/nisr-elsaeed/ep3/variant.m3u8
+ext,نسر الصعيد الحلقة4,https://shoofmax.b-cdn.net/nisr-elsaeed/ep4/variant.m3u8
+ext,نسر الصعيد الحلقة5,https://shoofmax.b-cdn.net/nisr-elsaeed/ep5/variant.m3u8
+ext,نسر الصعيد الحلقة6,https://shoofmax.b-cdn.net/nisr-elsaeed/ep6/variant.m3u8
+ext,نسر الصعيد الحلقة7,https://shoofmax.b-cdn.net/nisr-elsaeed/ep7/variant.m3u8
+ext,نسر الصعيد الحلقة8,https://shoofmax.b-cdn.net/nisr-elsaeed/ep8/variant.m3u8
+ext,نسر الصعيد الحلقة9,https://shoofmax.b-cdn.net/nisr-elsaeed/ep9/variant.m3u8
+ext,نسر الصعيد الحلقة10,https://shoofmax.b-cdn.net/nisr-elsaeed/ep10/variant.m3u8
+ext,نسر الصعيد الحلقة11,https://shoofmax.b-cdn.net/nisr-elsaeed/ep11/variant.m3u8
+ext,نسر الصعيد الحلقة12,https://shoofmax.b-cdn.net/nisr-elsaeed/ep12/variant.m3u8
+ext,نسر الصعيد الحلقة13,https://shoofmax.b-cdn.net/nisr-elsaeed/ep13/variant.m3u8
+ext,نسر الصعيد الحلقة14,https://shoofmax.b-cdn.net/nisr-elsaeed/ep14/variant.m3u8
+ext,نسر الصعيد الحلقة15,https://shoofmax.b-cdn.net/nisr-elsaeed/ep15/variant.m3u8
+ext,نسر الصعيد الحلقة16,https://shoofmax.b-cdn.net/nisr-elsaeed/ep16/variant.m3u8
+ext,نسر الصعيد الحلقة17,https://shoofmax.b-cdn.net/nisr-elsaeed/ep17/variant.m3u8
+ext,نسر الصعيد الحلقة18,https://shoofmax.b-cdn.net/nisr-elsaeed/ep18/variant.m3u8
+ext,نسر الصعيد الحلقة19,https://shoofmax.b-cdn.net/nisr-elsaeed/ep19/variant.m3u8
+ext,نسر الصعيد الحلقة20,https://shoofmax.b-cdn.net/nisr-elsaeed/ep20/variant.m3u8
+ext,نسر الصعيد الحلقة21,https://shoofmax.b-cdn.net/nisr-elsaeed/ep21/variant.m3u8
+ext,نسر الصعيد الحلقة22,https://shoofmax.b-cdn.net/nisr-elsaeed/ep22/variant.m3u8
+ext,نسر الصعيد الحلقة23,https://shoofmax.b-cdn.net/nisr-elsaeed/ep23/variant.m3u8
+ext,نسر الصعيد الحلقة24,https://shoofmax.b-cdn.net/nisr-elsaeed/ep24/variant.m3u8
+ext,نسر الصعيد الحلقة25,https://shoofmax.b-cdn.net/nisr-elsaeed/ep25/variant.m3u8
+ext,نسر الصعيد الحلقة26,https://shoofmax.b-cdn.net/nisr-elsaeed/ep26/variant.m3u8
+ext,نسر الصعيد الحلقة27,https://shoofmax.b-cdn.net/nisr-elsaeed/ep27/variant.m3u8
+ext,نسر الصعيد الحلقة28,https://shoofmax.b-cdn.net/nisr-elsaeed/ep28/variant.m3u8
+ext,نسر الصعيد الحلقة29,https://shoofmax.b-cdn.net/nisr-elsaeed/ep29/variant.m3u8
+ext,نسر الصعيد الحلقة30,https://shoofmax.b-cdn.net/nisr-elsaeed/ep30/variant.m3u8
+
+group,بكرا أحلى
+avi,▁▂▃▅▆▇★☀二【«بكرا أحلى»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,بكرا أحلى الحلقة1,https://shoofmax.b-cdn.net/bokra-ahla/ep1/variant.m3u8
+ext,بكرا أحلى الحلقة2,https://shoofmax.b-cdn.net/bokra-ahla/ep2/variant.m3u8
+ext,بكرا أحلى الحلقة3,https://shoofmax.b-cdn.net/bokra-ahla/ep3/variant.m3u8
+ext,بكرا أحلى الحلقة4,https://shoofmax.b-cdn.net/bokra-ahla/ep4/variant.m3u8
+ext,بكرا أحلى الحلقة5,https://shoofmax.b-cdn.net/bokra-ahla/ep5/variant.m3u8
+ext,بكرا أحلى الحلقة6,https://shoofmax.b-cdn.net/bokra-ahla/ep6/variant.m3u8
+ext,بكرا أحلى الحلقة7,https://shoofmax.b-cdn.net/bokra-ahla/ep7/variant.m3u8
+ext,بكرا أحلى الحلقة8,https://shoofmax.b-cdn.net/bokra-ahla/ep8/variant.m3u8
+ext,بكرا أحلى الحلقة9,https://shoofmax.b-cdn.net/bokra-ahla/ep9/variant.m3u8
+ext,بكرا أحلى الحلقة10,https://shoofmax.b-cdn.net/bokra-ahla/ep10/variant.m3u8
+ext,بكرا أحلى الحلقة11,https://shoofmax.b-cdn.net/bokra-ahla/ep11/variant.m3u8
+ext,بكرا أحلى الحلقة12,https://shoofmax.b-cdn.net/bokra-ahla/ep12/variant.m3u8
+ext,بكرا أحلى الحلقة13,https://shoofmax.b-cdn.net/bokra-ahla/ep13/variant.m3u8
+ext,بكرا أحلى الحلقة14,https://shoofmax.b-cdn.net/bokra-ahla/ep14/variant.m3u8
+ext,بكرا أحلى الحلقة15,https://shoofmax.b-cdn.net/bokra-ahla/ep15/variant.m3u8
+ext,بكرا أحلى الحلقة16,https://shoofmax.b-cdn.net/bokra-ahla/ep16/variant.m3u8
+ext,بكرا أحلى الحلقة17,https://shoofmax.b-cdn.net/bokra-ahla/ep17/variant.m3u8
+ext,بكرا أحلى الحلقة18,https://shoofmax.b-cdn.net/bokra-ahla/ep18/variant.m3u8
+ext,بكرا أحلى الحلقة19,https://shoofmax.b-cdn.net/bokra-ahla/ep19/variant.m3u8
+ext,بكرا أحلى الحلقة20,https://shoofmax.b-cdn.net/bokra-ahla/ep20/variant.m3u8
+ext,بكرا أحلى الحلقة21,https://shoofmax.b-cdn.net/bokra-ahla/ep21/variant.m3u8
+ext,بكرا أحلى الحلقة22,https://shoofmax.b-cdn.net/bokra-ahla/ep22/variant.m3u8
+ext,بكرا أحلى الحلقة23,https://shoofmax.b-cdn.net/bokra-ahla/ep23/variant.m3u8
+ext,بكرا أحلى الحلقة24,https://shoofmax.b-cdn.net/bokra-ahla/ep24/variant.m3u8
+ext,بكرا أحلى الحلقة25,https://shoofmax.b-cdn.net/bokra-ahla/ep25/variant.m3u8
+ext,بكرا أحلى الحلقة26,https://shoofmax.b-cdn.net/bokra-ahla/ep26/variant.m3u8
+ext,بكرا أحلى الحلقة27,https://shoofmax.b-cdn.net/bokra-ahla/ep27/variant.m3u8
+
+group,كلبش
+avi,▁▂▃▅▆▇★☀二【«كلبش»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+ext,كلبش الحلقة 1,https://shoofmax.b-cdn.net//kalabsh/ep1/variant.m3u8
+ext,كلبش الحلقة 2,https://shoofmax.b-cdn.net//kalabsh/ep2/variant.m3u8
+ext,كلبش الحلقة 3,https://shoofmax.b-cdn.net//kalabsh/ep3/variant.m3u8
+ext,كلبش الحلقة 4,https://shoofmax.b-cdn.net//kalabsh/ep4/variant.m3u8
+ext,كلبش الحلقة 5,https://shoofmax.b-cdn.net//kalabsh/ep5/variant.m3u8
+ext,كلبش الحلقة 6,https://shoofmax.b-cdn.net//kalabsh/ep6/variant.m3u8
+ext,كلبش الحلقة 7,https://shoofmax.b-cdn.net//kalabsh/ep7/variant.m3u8
+ext,كلبش الحلقة 8,https://shoofmax.b-cdn.net//kalabsh/ep8/variant.m3u8
+ext,كلبش الحلقة 9,https://shoofmax.b-cdn.net//kalabsh/ep9/variant.m3u8
+ext,كلبش الحلقة 10,https://shoofmax.b-cdn.net//kalabsh/ep10/variant.m3u8
+ext,كلبش الحلقة 11,https://shoofmax.b-cdn.net//kalabsh/ep11/variant.m3u8
+ext,كلبش الحلقة 12,https://shoofmax.b-cdn.net//kalabsh/ep12/variant.m3u8
+ext,كلبش الحلقة 13,https://shoofmax.b-cdn.net//kalabsh/ep13/variant.m3u8
+ext,كلبش الحلقة 14,https://shoofmax.b-cdn.net//kalabsh/ep14/variant.m3u8
+ext,كلبش الحلقة 15,https://shoofmax.b-cdn.net//kalabsh/ep15/variant.m3u8
+ext,كلبش الحلقة 16,https://shoofmax.b-cdn.net//kalabsh/ep16/variant.m3u8
+ext,كلبش الحلقة 17,https://shoofmax.b-cdn.net//kalabsh/ep17/variant.m3u8
+ext,كلبش الحلقة 18,https://shoofmax.b-cdn.net//kalabsh/ep18/variant.m3u8
+ext,كلبش الحلقة 19,https://shoofmax.b-cdn.net//kalabsh/ep19/variant.m3u8
+ext,كلبش الحلقة 20,https://shoofmax.b-cdn.net//kalabsh/ep20/variant.m3u8
+ext,كلبش الحلقة 21,https://shoofmax.b-cdn.net//kalabsh/ep21/variant.m3u8
+ext,كلبش الحلقة 22,https://shoofmax.b-cdn.net//kalabsh/ep22/variant.m3u8
+ext,كلبش الحلقة 23,https://shoofmax.b-cdn.net//kalabsh/ep23/variant.m3u8
+ext,كلبش الحلقة 24,https://shoofmax.b-cdn.net//kalabsh/ep24/variant.m3u8
+ext,كلبش الحلقة 25,https://shoofmax.b-cdn.net//kalabsh/ep25/variant.m3u8
+ext,كلبش الحلقة 26,https://shoofmax.b-cdn.net//kalabsh/ep26/variant.m3u8
+ext,كلبش الحلقة 27,https://shoofmax.b-cdn.net//kalabsh/ep27/variant.m3u8
+ext,كلبش الحلقة 28,https://shoofmax.b-cdn.net//kalabsh/ep28/variant.m3u8
+ext,كلبش الحلقة 29,https://shoofmax.b-cdn.net//kalabsh/ep29/variant.m3u8
+ext,كلبش الحلقة 30,https://shoofmax.b-cdn.net//kalabsh/ep30/variant.m3u8
+
+group,La Casa De Papel S1+2| Money Heist S1+2 - 
+avi,▁▂▃▅▆▇★☀二【«La Casa De Papel S2 | Money Heist S1+2 - »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep01.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 2,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep02.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 3,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep03.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 4,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep04.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 5,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep05.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 6,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep06.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 7,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep07.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 8,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep08.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 9,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep09.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 10,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep10.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 11,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep11.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 12,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep12.mp4
+avi,en La Casa De Papel S1 Ep1 | الحلقة 13,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS1/LaCasaDePapelS1_Ep13.mp4
+avi,en La Casa De Papel S2 Ep1 | الحلقة 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep01.mp4
+avi,en La Casa De Papel S2 Ep2 | الحلقة 2,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep02.mp4
+avi,en La Casa De Papel S2 Ep3 | الحلقة 3,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep03.mp4
+avi,en La Casa De Papel S2 Ep4 | الحلقة 4,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep04.mp4
+avi,en La Casa De Papel S2 Ep5 | الحلقة 5,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep05.mp4
+avi,en La Casa De Papel S2 Ep6 | الحلقة 6,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep06.mp4
+avi,en La Casa De Papel S2 Ep7 | الحلقة 7,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep07.mp4
+avi,en La Casa De Papel S2 Ep8 | الحلقة 8,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep08.mp4
+avi,en La Casa De Papel S2 Ep9 final |,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS2/LaCasaDePapelS2_Ep09.mp4
+avi,en La Casa De Papel S3 Ep 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep01.mp4
+avi,en La Casa De Papel S3 Ep 2,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep02.mp4
+avi,en La Casa De Papel S3 Ep 3,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep03.mp4
+avi,en La Casa De Papel S3 Ep 4,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep04.mp4
+avi,en La Casa De Papel S3 Ep 5,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep05.mp4
+avi,en La Casa De Papel S3 Ep 6,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep06.mp4
+avi,en La Casa De Papel S3 Ep 7,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep07.mp4
+avi,en La Casa De Papel S3 Ep 8,http://video2.alfajertv.com:8081/vodAlfajer3/series/LaCasaDePapelS3/LaCasaDePapelS3_Ep08.mp4
+
+group,☆☆ السلطان عبد الحميد ☆☆
+avi,☆☆ السلطان عبد الحميد ☆☆,https://ia601507.us.archive.org/5/items/whatsappvideo20190704at3.08.14pm/WhatsApp%20Video%202019-07-04%20at%203.08.14%20PM.mp4
+avi,الحلقة 1,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep01.mp4
+avi,الحلقة 2,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep02.mp4
+avi,الحلقة 3,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep03.mp4
+avi,الحلقة 4,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep04.mp4
+avi,الحلقة 5,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep05.mp4
+avi,الحلقة 6,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep06.mp4
+avi,الحلقة 7,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep07.mp4
+avi,الحلقة 8,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep08.mp4
+avi,الحلقة 9,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep09.mp4
+avi,الحلقة 10,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep10.mp4
+avi,الحلقة 11,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep11.mp4
+avi,الحلقة 12,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep12.mp4
+avi,الحلقة 13,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep13.mp4
+avi,الحلقة 14,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep14.mp4
+avi,الحلقة 15,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep15.mp4
+avi,الحلقة 16,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep16.mp4
+avi,الحلقة 17,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S1/Sultan_Abdelhameed_S1_Ep17.mp4
+avi,الحلقة 18,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep18.mp4
+avi,الحلقة 19,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep19.mp4
+avi,الحلقة 20,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep20.mp4
+avi,الحلقة 21,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep21.mp4
+avi,الحلقة 22,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep22.mp4
+avi,الحلقة 23,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep23.mp4
+avi,الحلقة 24,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep24.mp4
+avi,الحلقة 25,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep25.mp4
+avi,الحلقة 26,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep26.mp4
+avi,الحلقة 27,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep27.mp4
+avi,الحلقة 28,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep28.mp4
+avi,الحلقة 29,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep29.mp4
+avi,الحلقة 30,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep30.mp4
+avi,الحلقة 31,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep31.mp4
+avi,الحلقة 32,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep32.mp4
+avi,الحلقة 33,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep33.mp4
+avi,الحلقة 34,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep34.mp4
+avi,الحلقة 35,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep35.mp4
+avi,الحلقة 36,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep36.mp4
+avi,الحلقة 37,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep37.mp4
+avi,الحلقة 38,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep38.mp4
+avi,الحلقة 39,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep39.mp4
+avi,الحلقة 40,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep40.mp4
+avi,الحلقة 41,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep41.mp4
+avi,الحلقة 42,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep42.mp4
+avi,الحلقة 43,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep43.mp4
+avi,الحلقة 44,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep44.mp4
+avi,الحلقة 45,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep45.mp4
+avi,الحلقة 46,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep46.mp4
+avi,الحلقة 47,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep47.mp4
+avi,الحلقة 48,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep48.mp4
+avi,الحلقة 49,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep49.mp4
+avi,الحلقة 50,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep50.mp4
+avi,الحلقة 51,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep51.mp4
+avi,الحلقة 52,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep52.mp4
+avi,الحلقة 53,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep53.mp4
+avi,الحلقة 54,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S2/Sultan_Abdelhameed_S2_Ep54.mp4
+avi,الحلقة 55,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep55.mp4
+avi,الحلقة 56,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep56.mp4
+avi,الحلقة 57,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep57.mp4
+avi,الحلقة 58,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep58.mp4
+avi,الحلقة 59,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep59.mp4
+avi,الحلقة 60,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep60.mp4
+avi,الحلقة 61,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep61.mp4
+avi,الحلقة 62,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep62.mp4
+avi,الحلقة 63,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep63.mp4
+avi,الحلقة 64,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep64.mp4
+avi,الحلقة 65,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep65.mp4
+avi,الحلقة 66,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep66.mp4
+avi,الحلقة 67,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep67.mp4
+avi,الحلقة 68,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep68.mp4
+avi,الحلقة 69,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep69.mp4
+avi,الحلقة 70,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep70.mp4
+avi,الحلقة 71,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep71.mp4
+avi,الحلقة 72,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep72.mp4
+avi,الحلقة 73,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep73.mp4
+avi,الحلقة 74,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep74.mp4
+avi,الحلقة 75,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep75.mp4
+avi,الحلقة 76,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep76.mp4
+avi,الحلقة 77,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep77.mp4
+avi,الحلقة 78,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep78.mp4
+avi,الحلقة 79,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep79.mp4
+avi,الحلقة 80,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep80.mp4
+avi,الحلقة 81,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep81.mp4
+avi,الحلقة 82,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep82.mp4
+avi,الحلقة 83,http://video.alfajertv.com:8081/vodAlfajer/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep83.mp4
+avi,الحلقة 84,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep84.mp4
+avi,الحلقة 85,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep85.mp4
+avi,الحلقة 86,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep86.mp4
+avi,الحلقة 87,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep87.mp4
+avi,الحلقة الأخيرة 88,http://video2.alfajertv.com:8081/vodAlfajer3/series/Sultan_Abdelhameed_S3/Sultan_Abdelhameed_S3_Ep88.mp4
+
+group,☆☆ أرطغرل الجزء الرابع ☆☆
+avi,☆☆ أرطغرل الجزء الرابع ☆☆,https://ia601507.us.archive.org/5/items/whatsappvideo20190704at3.08.14pm/WhatsApp%20Video%202019-07-04%20at%203.08.14%20PM.mp4
+ext,الحلقة 1,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP92.MP4
+ext,الحلقة 2,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP93.MP4
+ext,الحلقة 3,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP94.MP4
+ext,الحلقة 4,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP95.MP4
+ext,الحلقة 5,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP96.MP4
+ext,الحلقة 6,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP97.MP4
+ext,الحلقة 7,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP98.MP4
+ext,الحلقة 8,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP99.MP4
+ext,الحلقة 9,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP100.MP4
+ext,الحلقة 10,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP101.MP4
+ext,الحلقة 11,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP102.MP4
+ext,الحلقة 12,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP103.MP4
+ext,الحلقة 13,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP104.MP4
+ext,الحلقة 14,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP105.MP4
+ext,الحلقة 15,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP106.MP4
+ext,الحلقة 16,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP107.MP4
+ext,الحلقة 17,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP108.MP4
+ext,الحلقة 18,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP109.MP4
+ext,الحلقة 19,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP110.MP4
+ext,الحلقة 20,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP111.MP4
+ext,الحلقة 21,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP112.MP4
+ext,الحلقة 22,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP113.MP4
+ext,الحلقة 23,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP114.MP4
+ext,الحلقة 24,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP115.MP4
+avi,الحلقة 25,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP116.mp4
+avi,الحلقة 26,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP117.mp4
+avi,الحلقة 27,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/S4_EP118.mp4
+ext,الحلقة 28,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/119.MP4
+ext,الحلقة 29,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/120.MP4
+ext,الحلقة 30,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S04/121.MP4
+
+group,قيامة ارطغرل - الموسم الخامس
+avi,▁▂▃▅▆▇★☀二【«قيامة ارطغرل - الموسم الخامس»】二☀★▇▆▅▃▂▁,https://ia601507.us.archive.org/5/items/whatsappvideo20190704at3.08.14pm/WhatsApp%20Video%202019-07-04%20at%203.08.14%20PM.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة1,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/122-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة2,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/artugol5_ad2.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة3,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/122-ad3.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة4,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/125-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة5,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/126-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة6,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/127-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة7,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/128-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة8,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/129-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة9,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/130-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة10,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/131-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة11,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/132-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة12,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/133-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة13,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/134-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة14,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/135-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة15,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/136-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة16,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/137-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة17,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/138-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة18,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/139-full.mp4?
+avi,قيامة ارطغرل - الموسم الخامس الحلقة19,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/140-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة20,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/141-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة21+,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/142-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة22,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/143-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة23,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/144-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة24,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/145-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة25,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/146-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة26,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/147-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة27,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/148-full.mp4
+avi,قيامة ارطغرل - الموسم الخامس الحلقة28,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/149-full.mp4
+avi,قيامة ارطغرل الحلقة 29والاخيرة,http://video.alfajertv.com:8081/vodAlfajer/series/Artughrol_S05/150-full.mp4
+
+group, Game Of Thrones الموسم الاخير 
+avi,▁▂▃▅▆▇★☀二【« Game Of Thrones الموسم الاخير »】二☀★▇▆▅▃▂▁,https://ia601507.us.archive.org/5/items/whatsappvideo20190704at3.08.14pm/WhatsApp%20Video%202019-07-04%20at%203.08.14%20PM.mp4
+avi,en Game Of Thrones S8 E01,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E001.mp4
+avi,en Game Of Thrones S8 E02,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E002.mp4
+avi,en Game Of Thrones S8 E03,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E003.mp4
+avi,en Game Of Thrones S8 E04,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E004.mp4
+avi,en Game Of Thrones S8 E05,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game.of.Thrones.S08E05new.mp4
+avi,en Game Of Thrones S8 E06+,http://video.alfajertv.com:8081/vodAlfajer/series/game-of-thrones-s8/Game-Of-Thrones-S8-E006.mp4
+
+group,blocks4  الماني مترجم الموسم الثاني
+avi,▁▂▃▅▆▇★☀二【«blocks4  الماني مترجم الموسم الثاني»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,blocks4  الموسم الثاني  1,https://tempb05.faselhd.cc/stream/hls/05/1546905600/962b21cb541922368808faffc9a8c76f/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني  2,https://tempb05.faselhd.cc/stream/hls/05/1546905600/b41afb278f82d7a1564dd7f7b474f77c/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني  3,https://tempb05.faselhd.cc/stream/hls/05/1546905600/f45ce3474ffccf8fc587fbb2712f4cdc/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني  4,https://tempb05.faselhd.cc/stream/hls/05/1546905600/e84e464a4f76aeacdc2e24bd6495d1d0/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني  5,https://tempb05.faselhd.cc/stream/hls/05/1546905600/fa25941bc69c99517b699c2f0435eeff/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني  6,https://tempb05.faselhd.cc/stream/hls/05/1546905600/78f718fca0a2cb79040dd92300d7840a/v.mp4/index.m3u8
+avi,blocks4  الموسم الثاني والاخيرة  7,https://tempb05.faselhd.cc/stream/hls/05/1546905600/de203d35474bfb2b4798e5c289916d8a/v.mp4/index.m3u8
+
+group,block4 موسم الثالث
+avi,▁▂▃▅▆▇★☀二【« block4 موسم الثالث»】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,1,https://ia601507.us.archive.org/2/items/34538/34538.mkv
+avi,2,https://ia601508.us.archive.org/27/items/34539/34539.mkv
+avi,3,https://ia601400.us.archive.org/9/items/34540/34540.mkv
+avi,4,https://ia601508.us.archive.org/3/items/34541/34541.mkv
+
+group,افلام مترجمه اكوام
+avi,Mile.22.2018,http://aflamuna.com/aflam/en/Mile.22.2018.mkv
+avi,Abduction.2011,http://aflamuna.com/aflam/en/Abduction.2011.BluRay.720p.akoam.net.mkv
+avi,Up.2009,http://aflamuna.com/aflam/ine/Up.2009.mkv
+avi,Rampage.2018,http://aflamuna.com/aflam/en/Rampage.2018.akoam.net.mkv
+avi,M.I.5,http://aflamuna.com/aflam/en/M.I.5.BluRay.mkv
+avi,M.I.2,http://aflamuna.com/aflam/en/M.I.2.BluRay.mkv
+avi,M.I.3,http://aflamuna.com/aflam/en/M.I.3.BluRay.mkv
+avi,M.I.4,http://aflamuna.com/aflam/en/M.I.4.BluRay.mkv
+avi,jurassic.world.fallen.kingdom.2018,http://50.7.161.202/movies/Movies/2018/09/08/jurassic.world.fallen.kingdom.2018.360p.bluray.Shahid4U.ME.mkv
+avi,Tomb.Raider.2018,http://50.7.161.202/movies/Movies/2018/06/02/Tomb.Raider.2018.720p.BluRay.akoam.net.mkv
+avi,Division.19.2017,http://aflamuna.com/aflam/en/Division.19.2017.1080p.WEB-DL.akoam.net.mkv
+avi,Triple.Frontier.2019,http://aflamuna.com/aflam/en/Triple.Frontier.2019.1080p.WEB-DL.akoam.net.mkv
+avi,Skyscraper.2018,http://aflamuna.com/aflam/en/Skyscraper.2018.mkv
+avi,Final.Score.2018,http://aflamuna.com/aflam/en/Final.Score.2018.mkv
+avi,Johnny.English.Strikes.Again.2018,http://aflamuna.com/aflam/en/Johnny.English.Strikes.Again.2018.mkv
+avi,Polar.2019,http://aflamuna.com/aflam/en/Polar.2019.mkv
+avi,The.Hitmans.Bodyguard.2017,http://aflamuna.com/aflam/en/The.Hitmans.Bodyguard.2017.mkv
+avi,Riddick.2013,http://aflamuna.com/aflam/en/Riddick.2013.mkv
+avi,Riddick.2004,http://aflamuna.com/aflam/en/The.Chronicles.of.Riddick.2004.mkv
+avi,Revenger.2019,http://aflamuna.com/aflam/en/Revenger.2019.mkv
+avi,Peppermint.2018,http://aflamuna.com/aflam/en/Peppermint.2018.mkv
+avi,Incredibles.2.2018,http://aflamuna.com/aflam/ine/Incredibles.2.2018.mkv
+avi,6.Days.2017,http://aflamuna.com/aflam/en/6.Days.2017.720p.BluRay.akoam.net.mkv
+avi,Escape.Room.2019,http://aflamuna.com/aflam/en/Escape.Room.2019.720p.WEB-DL.akoam.net.mkv
+avi,The.Predator.2018,http://aflamuna.com/aflam/en/The.Predator.2018.mkv
+avi,F.R.E.D.I.2018,http://aflamuna.com/aflam/en/F.R.E.D.I.2018.mkv
+avi,BOO.2019,http://aflamuna.com/aflam/en/BOO.2019.1080P.WEB-DL.akoam.net.mkv
+avi,Ant.Man.and.the.Wasp.2018,http://aflamuna.com/aflam/en/Ant.Man.and.the.Wasp.2018.mkv
+avi,Bumblebee.2018,http://aflamuna.com/aflam/en/Bumblebee.2018.mkv
+avi,August.Creek.2017,http://aflamuna.com/aflam/en/August.Creek.2017.mkv
+avi,Backfire.2018,http://aflamuna.com/aflam/en/Backfire.2018.mkv
+avi,Bad.Company.2018,http://aflamuna.com/aflam/en/Bad.Company.2018.mkv
+avi,Bayou.Caviar.2018,http://aflamuna.com/aflam/en/Bayou.Caviar.2018.mkv
+avi,Before.Someone.Gets.Hurt.2018,http://aflamuna.com/aflam/en/Before.Someone.Gets.Hurt.2018.mkv
+avi,Betrayed.2018,http://aflamuna.com/aflam/en/Betrayed.2018.mkv
+avi,Big.Miracle.2012,http://aflamuna.com/aflam/en/Big.Miracle.2012.mkv
+avi,Bleach.2018,http://aflamuna.com/aflam/en/Bleach.2018.mkv
+avi,Blood.Fest.2018,http://aflamuna.com/aflam/en/Blood.Fest.2018.mkv
+avi,Blood.Sweat.and.Terrors.2018,http://aflamuna.com/aflam/en/Blood.Sweat.and.Terrors.2018.mkv
+avi,BuyBust.2018,http://aflamuna.com/aflam/en/BuyBust.2018.mkv
+avi,Cant.See.Me.Love.You.2018,http://aflamuna.com/aflam/en/Cant.See.Me.Love.You.2018.mkv
+avi,Central.Park.2018,http://aflamuna.com/aflam/en/Central.Park.2018.mkv
+avi,Chinese.Blade.2018,http://aflamuna.com/aflam/en/Chinese.Blade.2018.mkv
+avi,Pitch.Black.2000,http://aflamuna.com/aflam/en/Pitch.Black.2000.mkv
+avi,Boyka.Undisputed.2016,http://50.7.161.202/movies/Movies/2017/07/25/Boyka.Undisputed.2016.720p.BluRay.akoam.com.mkv
+avi,Mission.Impossible.Fallout.2018,http://aflamuna.com/aflam/en/Mission.Impossible.Fallout.2018.mkv
+avi,Wanted.2008,http://aflamuna.com/aflam/en/Wanted.2008.720p.BrRip.akoam.net.mkv
+avi,ROMA.2018,http://aflamuna.com/aflam/en/ROMA.2018.mkv
+avi,Just.Go.With.It.2011,http://aflamuna.com/aflam/en/Just.Go.With.It.2011.BrRip.720p.akoam.net.mkv
+avi,Bird.Box.2018,http://aflamuna.com/aflam/en/Bird.Box.2018.mkv
+avi,Creed.2.2019,http://aflamuna.com/aflam/en/Creed.2.2019.akoam.net.mkv
+avi,Papillon.2017,http://aflamuna.com/aflam/en/Papillon.2017.mkv
+avi,Replicas.2018,http://aflamuna.com/aflam/en/Replicas.2018.720p.Bluray.akoam.net.mkv
+avi,Flash.Hunter.2019,http://aflamuna.com/aflam/en/Flash.Hunter.2019.HD720p.akoam.net.mkv
+avi,Night.2019,http://aflamuna.com/aflam/en/Night.2019.1080p.WEB-DL.akoam.net.mkv
+avi,Spider.Man.Into.the.S.V.2019,http://aflamuna.com/aflam/ine/Spider.Man.Into.the.S.V.2019.1080p.WEB-DL.akoam.net.mkv
+avi,The.Equalizer.2,http://aflamuna.com/aflam/en/The.Equalizer.2.2018.mkv
+avi,Alcatraz.2018,http://aflamuna.com/aflam/en/Alcatraz.2018.mkv
+avi,The.Bouncer.2018,http://aflamuna.com/aflam/en/The.Bouncer.2018.mkv
+avi,Alpha.2018,http://aflamuna.com/aflam/en/Alpha.2018.mkv
+avi,Happy.Death.Day.2U.2019,http://aflamuna.com/aflam/en/Happy.Death.Day.2U.2019.HDRip.HC.akoam.net.mkv
+avi,Kursk.2018,http://aflamuna.com/aflam/en/Kursk.2018.akoam.net.mkv
+avi,Serenity.2019,http://aflamuna.com/aflam/en/Serenity.2019.720p.Bluray.akoam.net.mkv
+avi,Robin.Hood.2018,http://aflamuna.com/aflam/en/Robin.Hood.2018.HDRip.akoam.net.mkv
+avi,I.Am.Legend.2007,http://aflamuna.com/aflam/en/I.Am.Legend.2007.mkv
+avi,A.Quiet.Place.2018,http://aflamuna.com/aflam/en/A.Quiet.Place.2018.720p.bluray.x264.akoam.net.mkv
+avi,Alita.Battle.Angel.2019,http://50.7.161.202/movies/Movies/2019/02/24/Shahid4U.NeT.Alita.Battle.Angel.2019.720p.HDTC.mkv
+avi,Venom.2018,http://aflamuna.com/aflam/en/Venom.2018.mkv
+avi,Close.2019,http://aflamuna.com/aflam/en/Close.2019.mkv
+avi,The.Pursuit.Of.Happyness.2006,http://aflamuna.com/aflam/en/The.Pursuit.Of.Happyness.2006.mkv
+avi,The.Meg.2018,http://aflamuna.com/aflam/en/The.Meg.2018.mkv
+avi,Hunter.Killer.2018,http://aflamuna.com/aflam/en/Hunter.Killer.2018.mkv
+avi,Tall.Tales.from.the.Magical.Garden.of.Antoon.Krings.2019,http://aflamuna.com/aflam/ine/Tall.Tales.from.the.Magical.Garden.of.Antoon.Krings.2019.akoam.net.mkv
+
+group,الاسطورة 
+avi,▁▂▃▅▆▇★☀二【«الاسطورة »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,الحلقة1,https://mvd4.ddns.me/1vod5n/alstora-1.mp4
+avi,No name,https://mvd4a.ddns.me/1vod5n/alstora-1.mp4
+avi,الحلقة2,https://mvd4.ddns.me/1vod5n/al2ostare-2.mp4
+avi,الحلقة3,https://mvd4.ddns.me/1vod5n/al2ostare-3.mp4
+avi,الحلقة4,https://mvd4.ddns.me/1vod5n/al2ostare-4.mp4
+avi,الحلقة5,https://mvd4.ddns.me/1vod5n/al2ostare-5.mp4
+avi,الحلقة6,https://mvd4.ddns.me/1vod5n/al2ostare-6.mp4
+avi,الحلقة7,https://mvd4.ddns.me/1vod5n/al2ostare-7.mp4
+avi,الحلقة8,https://mvd4.ddns.me/1vod5n/al2ostare-8.mp4
+avi,الحلقة9,https://mvd4.ddns.me/1vod5n/al2ostare-9.mp4
+avi,الحلقة10,https://mvd4.ddns.me/1vod5n/al2osotra-10.mp4
+avi,الحلقة11,https://mvd4.ddns.me/1vod5n/ostora-11.mp4
+avi,الحلقة12,https://mvd4.ddns.me/1vod5n/ostora-12.mp4
+avi,الحلقة13,https://mvd4.ddns.me/1vod5n/ostora-13.mp4
+avi,الحلقة14,https://mvd4.ddns.me/1vod5n/ostora-14.mp4
+avi,الحلقة15,https://mvd4.ddns.me/1vod5n/ostora-15.mp4
+avi,الحلقة16,https://mvd4.ddns.me/1vod5n/ostora-16.mp4
+avi,الحلقة17,https://mvd4.ddns.me/1vod5n/ostora-17.mp4
+avi,الحلقة18,https://mvd4.ddns.me/1vod5n/ostora-18.mp4
+avi,الحلقة19,https://mvd4.ddns.me/1vod5n/ostora-19.mp4
+avi,الحلقة20,https://mvd4.ddns.me/1vod5n/ostooora-20.mp4
+avi,الحلقة21,https://mvd4.ddns.me/1vod5n/ostooora-21.mp4
+avi,الحلقة22,https://mvd4.ddns.me/1vod5n/ostooora-22.mp4
+avi,الحلقة23,https://mvd4.ddns.me/1vod5n/ostooora-23.mp4
+avi,الحلقة24,https://mvd4.ddns.me/1vod5n/ostooora-24.mp4
+avi,الحلقة25,https://mvd4.ddns.me/1vod5n/ostooora-25.mp4
+avi,الحلقة26,https://mvd4.ddns.me/1vod5n/ostooora-26.mp4
+avi,الحلقة27,https://mvd4.ddns.me/1vod5n/ostooora-27.mp4
+avi,الحلقة28,https://mvd4.ddns.me/1vod5n/ostooora-28.mp4
+avi,الحلقة29,https://mvd4.ddns.me/1vod5n/ostooora-29.mp4
+avi,الحلقة30,https://mvd4a.ddns.me/1vod5n/ostoora-30-final.mp4
+
+group,مسرحيات 
+avi,▁▂▃▅▆▇★☀二【« مسرحيات »】二☀★▇▆▅▃▂▁,https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+avi,مسرحية شاهد ماشفش حاجة,https://mvd7.ddns.me/viewm/8/729/8729.mp4
+avi,المسرحيات في فرفش بلس,https://mvd7.ddns.me/viewm/22/945/22945.mp4
+avi,مسرحية نمرة 2 يكسب,https://mvd7.ddns.me/viewm/25/429/25429.mp4
+avi,مسرحية العيال كبرت,https://mvd8.ddns.me/viewm/8/730/8730.mp4
+avi,مسرحية غربة,https://mvd8.ddns.me/viewm/4/915/4915.mp4
+avi,مسرحية مدرسة المشاغبين,https://mvd8.ddns.me/viewm/4/910/4910.mp4
+avi,مسرحية الزعيم,https://mvd7.ddns.me/viewm/4/899/4899.mp4
+avi,مسرحية حمام الهنا,https://mvd7.ddns.me/viewm/4/913/4913.mp4
+avi,مسرحية كاسك يا وطن,https://mvd7.ddns.me/viewm/4/914/4914.mp4
+avi,مسرحية مسرحية ميس الريم,https://mvd7.ddns.me/viewm/4/900/4900.mp4
+avi,مسرحية صانع المطر,https://mvd8.ddns.me/viewm/13/937/13937.mp4
